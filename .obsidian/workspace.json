@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,7 +170,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e2f339c528e156e",
+  "active": "dda270f19bb7927a",
   "lastOpenFiles": [
     "30_Days Challenge"
   ]
