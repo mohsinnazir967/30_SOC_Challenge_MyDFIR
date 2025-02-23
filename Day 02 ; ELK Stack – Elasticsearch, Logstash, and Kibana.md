@@ -46,7 +46,7 @@ Web console for searching and analyzing logs.
 - **Elastic Maps** – Geospatial analysis.
 - **Alerting & Reporting** – Automated alerts based on log data.
 
-## 5. Comparison with Splunk
+## Comparison with Splunk
 
 *Elasticsearch* = Splunk Indexer
 *Logstash* = Splunk Heavy Forwarder
