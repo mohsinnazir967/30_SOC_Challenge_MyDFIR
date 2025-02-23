@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 01; Introduction & Network Diagram Creation.md",
+                "file": "Day 01 Introduction & Network Diagram Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 01; Introduction & Network Diagram Creation"
+              "title": "Day 01 Introduction & Network Diagram Creation"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 02; ELK Stack – Elasticsearch, Logstash, and Kibana.md",
+                "file": "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 02; ELK Stack – Elasticsearch, Logstash, and Kibana"
+              "title": "Day 02 ELK Stack – Elasticsearch Logstash and Kibana"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 02%3B ELK Stack – Elasticsearch%2C Logstash%2C and Kibana.md",
+                "file": "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 02%3B ELK Stack – Elasticsearch%2C Logstash%2C and Kibana"
+              "title": "Day 02 ELK Stack – Elasticsearch Logstash and Kibana"
             }
           }
         ],
@@ -215,11 +215,11 @@
   },
   "active": "4a49f99c8083fe94",
   "lastOpenFiles": [
-    "Day 02; ELK Stack – Elasticsearch, Logstash, and Kibana.md",
+    "Day 01 Introduction & Network Diagram Creation.md",
+    "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 02%3B ELK Stack – Elasticsearch%2C Logstash%2C and Kibana.md",
-    "Day 01; Introduction & Network Diagram Creation.md",
+    "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
     "{5F1D9027-2DA6-4336-8022-159C5DB52A74}.png",
-    "Day 03; Setting Up an Elasticsearch Instance.md",
     "README.md",
     "Netwrok_Diagram.drawio",
     "Network_Diagram.png",
