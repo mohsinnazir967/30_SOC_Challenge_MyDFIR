@@ -94,3 +94,13 @@ network.host: 45.77.250.171
 uncomment the port line also. (leave as default `9200`).
 
 Save and exit (`Ctrl + X`, `Y`, `Enter`).
+
+![[{5F1D9027-2DA6-4336-8022-159C5DB52A74}.png]]
+
+## 6. Setting Up a Firewall
+
+- Go to **Vultr > VM Settings > Firewall**.
+- Click **"Manage"** > **"Add Firewall Group"**.
+    - Name: `30-Day-MyDFIR-SOC-Challenge`.
+    - Restrict SSH to your IP only.
+- Assign the firewall to the VM under **Compute > VM > Settings > Firewall**.
