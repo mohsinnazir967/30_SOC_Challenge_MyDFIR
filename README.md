@@ -35,8 +35,10 @@
 ## Lab Setup & Cloud Usage
 
 - Uses **Vultr cloud** (with a **$300 free credit**) to run labs.
+- FREE $300 Cloud Credit (Vultr): [https://www.vultr.com/?ref=9632889-9J](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUU1TFJmUF82M1Y1RW9wU1k1WVNIbnV5a21Gd3xBQ3Jtc0tuTncxYm55a0Rhdlo0RHAxMkJrV29jTHY2M0FmZFoyZmlZZWFQT19GcnNRQXh1UW5SUnNWUEg2NUFIUVNNYml5eEdKM19VYnVKN0lXTUNicDJxaTlkbWpaeGdpUWdCN2I4Y2xzbUp1QkRqaml6M1BPQQ&q=https%3A%2F%2Fwww.vultr.com%2F%3Fref%3D9632889-9J&v=VAE3aVZi0Go) - Only applies to new accounts.
 - Can be done with **any cloud provider** that supports **Windows VMs**.
 - Cloud is recommended to avoid **hardware limitations**.
+
 
 ## Motivation & Next Steps
 
