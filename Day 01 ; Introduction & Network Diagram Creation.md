@@ -6,7 +6,7 @@
 - Created by Steven, a cybersecurity professional with 8 years of experience in security operations.
 - Focuses on hands-on skills to build confidence.
 
-### Network Diagram Using Draw.io
+### Network Diagram
 
 1. Accessing Draw.io
     
