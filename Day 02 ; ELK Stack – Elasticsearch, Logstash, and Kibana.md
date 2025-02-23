@@ -40,11 +40,11 @@ Supports **REST APIs & JSON** for interaction - Queries can also be made using K
 Web console for searching and analyzing logs.
 
 *Features:*
-    - **Visualizations (Kibana Lens)** – Drag & drop for dashboards.
-    - **Discover Tab** – Log searches using ESQL.
-    - **Machine Learning** – Anomaly detection.
-    - **Elastic Maps** – Geospatial analysis.
-    - **Alerting & Reporting** – Automated alerts based on log data.
+- **Visualizations (Kibana Lens)** – Drag & drop for dashboards.
+- **Discover Tab** – Log searches using ESQL.
+- **Machine Learning** – Anomaly detection.
+- **Elastic Maps** – Geospatial analysis.
+- **Alerting & Reporting** – Automated alerts based on log data.
 
 ## 5. Comparison with Splunk
 
