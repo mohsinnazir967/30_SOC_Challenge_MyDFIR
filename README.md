@@ -1,4 +1,4 @@
-# 30-Day MyDFIR SOC Analyst Challenge – Summary Notes
+# [30-Day MyDFIR SOC Analyst Challenge](https://www.youtube.com/playlist?list=PLG6KGSNK4PuBb0OjyDIdACZnb8AoNBeq6)
 
 ## Overview
 
