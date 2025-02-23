@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Day 01 ; Introduction & Network Diagram Creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Day 01 ; Introduction & Network Diagram Creation"
             }
           }
         ],
@@ -184,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a4f437aa05e656ec",
+  "active": "1e2f339c528e156e",
   "lastOpenFiles": [
-    "30-Day MyDFIR SOC Analyst Challenge.md",
     "README.md",
+    "Day 01 ; Introduction & Network Diagram Creation.md",
     "30_Days Challenge"
   ]
 }
