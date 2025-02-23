@@ -14,9 +14,7 @@
 ## Elasticsearch
 
 **Database** for storing logs (Windows Event Logs, Syslogs, Firewall Logs, etc.).
-
 Uses **Elasticsearch Query Language (ESQL)** – beginner-friendly.
-
 Supports **REST APIs & JSON** for interaction - Queries can also be made using Kibana’s web console.
 
 ## Logstash
