@@ -25,7 +25,11 @@
         - C2 (Command & Control) Server (Marked in Red)
         - SOC Analyst Laptop 
         - Attacker Laptop (Marked in Red)
+![[Network_Diagram.png]]
+![Network Diagram](Network_Diagram.png)
 
 ![Network Diagram](Network_Diagram.png)
+
+
 
 [Day 02 ELK Stack – Elasticsearch Logstash and Kibana](Day%2002%20ELK%20Stack%20%E2%80%93%20Elasticsearch%20Logstash%20and%20Kibana.md)
