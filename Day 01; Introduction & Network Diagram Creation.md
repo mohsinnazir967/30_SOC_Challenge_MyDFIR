@@ -26,6 +26,7 @@
         - SOC Analyst Laptop 
         - Attacker Laptop (Marked in Red)
 
-![[Network_Diagram.png]]
+![Network Diagram](Network_Diagram.png)
+
 
 [[Day 02; ELK Stack – Elasticsearch, Logstash, and Kibana]]
