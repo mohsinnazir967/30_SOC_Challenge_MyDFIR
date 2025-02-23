@@ -53,14 +53,12 @@
             "id": "4a49f99c8083fe94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "{5F1D9027-2DA6-4336-8022-159C5DB52A74}.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "{5F1D9027-2DA6-4336-8022-159C5DB52A74}"
             }
           }
         ],
@@ -121,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 570.5
+    "width": 221.5
   },
   "right": {
     "id": "210909697ff83258",
@@ -213,11 +211,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e2f339c528e156e",
+  "active": "4a49f99c8083fe94",
   "lastOpenFiles": [
+    "README.md",
     "Images",
     "Day 01 Introduction and Network Diagram Creation.md",
-    "README.md",
     "{5F1D9027-2DA6-4336-8022-159C5DB52A74}.png",
     "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
