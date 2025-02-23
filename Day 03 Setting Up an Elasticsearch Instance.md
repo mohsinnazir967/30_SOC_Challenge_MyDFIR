@@ -126,4 +126,4 @@ systemctl status elasticsearch.service
 
 Ensure it is **active and running**.
 
-
+[Day 04 Installing and Configuring Kibana](Day%2004%20Installing%20and%20Configuring%20Kibana.md)
