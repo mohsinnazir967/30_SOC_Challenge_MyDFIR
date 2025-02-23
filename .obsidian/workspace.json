@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 04.md",
+                "file": "Day 04 Installing and Configuring Kibana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 04"
+              "title": "Day 04 Installing and Configuring Kibana"
             }
           }
         ],
@@ -230,7 +230,7 @@
   "active": "eebbccf23e959b4d",
   "lastOpenFiles": [
     "Day 03 Setting Up an Elasticsearch Instance.md",
-    "Day 04.md",
+    "Day 04 Installing and Configuring Kibana.md",
     "{5F1D9027-2DA6-4336-8022-159C5DB52A74}.png",
     "README.md",
     "Images",
