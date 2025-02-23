@@ -2,6 +2,12 @@
 
 ## Elastic Security Configuration
 
+elastic password 
+
+```
+DRk2C0h0I7jcb5fnWQHA
+```
+
 ```
 Selecting previously unselected package elasticsearch.
 
