@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Day 02 ; ELK Stack – Elasticsearch, Logstash, and Kibana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Day 02 ; ELK Stack – Elasticsearch, Logstash, and Kibana"
             }
           }
         ],
@@ -201,12 +201,12 @@
   },
   "active": "dda9726fb0dc9e1a",
   "lastOpenFiles": [
+    "README.md",
     "Day 02 ; ELK Stack – Elasticsearch, Logstash, and Kibana.md",
     "Day 01 ; Introduction & Network Diagram Creation.md",
     "Netwrok_Diagram.drawio",
     "Network_Diagram.png",
     "Untitled Diagram.drawio.png",
-    "README.md",
     "Untitled Diagram.drawio",
     "Excalidraw/Drawing 2025-02-23 09.26.52.excalidraw.md",
     "Excalidraw/Drawing 2025-02-23 09.19.30.excalidraw.md",

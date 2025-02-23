@@ -49,8 +49,11 @@ Web console for searching and analyzing logs.
 ## Comparison with Splunk
 
 *Elasticsearch* = Splunk Indexer
+
 *Logstash* = Splunk Heavy Forwarder
+
 *Kibana* = Splunk Web UI (Search Head)
+
 *Beats/Agents* = Splunk Universal Forwarders
 
 ## Benefits of ELK Stack
