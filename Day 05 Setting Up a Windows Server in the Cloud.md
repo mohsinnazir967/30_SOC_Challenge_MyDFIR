@@ -36,7 +36,7 @@
         
 8. **Set Hostname
         
-    - Example: `Cahllenge-win-haji`
+    - Example: `Challenge-win-haji`
         
 9. **Deploy the Server**
     

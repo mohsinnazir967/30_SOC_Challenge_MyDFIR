@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 01 Introduction and Network Diagram Creation.md",
+                "file": "Day 05 Setting Up a Windows Server in the Cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 01 Introduction and Network Diagram Creation"
+              "title": "Day 05 Setting Up a Windows Server in the Cloud"
             }
           }
         ],
@@ -255,11 +255,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1e2f339c528e156e",
+  "active": "26542201822987cb",
   "lastOpenFiles": [
+    "Day 01 Introduction and Network Diagram Creation.md",
     "Images",
     "Images/Network_Diagram.png",
-    "Day 01 Introduction and Network Diagram Creation.md",
     "Clipboard.md",
     "Day 05 Setting Up a Windows Server in the Cloud.md",
     "README.md",
