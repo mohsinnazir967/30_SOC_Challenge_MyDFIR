@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clipboard.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clipboard"
+              "title": "README"
             }
           }
         ],
@@ -243,12 +243,12 @@
   },
   "active": "521c24be1e699acc",
   "lastOpenFiles": [
+    "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 04 Installing and Configuring Kibana.md",
+    "README.md",
     "Clipboard.md",
     "{5F1D9027-2DA6-4336-8022-159C5DB52A74}.png",
-    "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
-    "README.md",
     "Images",
     "Day 01 Introduction and Network Diagram Creation.md",
     "Day 02%3B ELK Stack – Elasticsearch%2C Logstash%2C and Kibana.md",

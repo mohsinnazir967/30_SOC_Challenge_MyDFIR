@@ -50,3 +50,5 @@
 
 [Day 03 Setting Up an Elasticsearch Instance](Day%2003%20Setting%20Up%20an%20Elasticsearch%20Instance.md)
 
+[Day 04 Installing and Configuring Kibana](Day%2004%20Installing%20and%20Configuring%20Kibana.md)
+
