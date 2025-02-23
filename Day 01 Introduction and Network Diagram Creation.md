@@ -25,8 +25,7 @@
         - C2 (Command & Control) Server (Marked in Red)
         - SOC Analyst Laptop 
         - Attacker Laptop (Marked in Red)
-![[Network_Diagram.png]]
-![Network Diagram](Network_Diagram.png)
+
 
 ![Network Diagram](Network_Diagram.png)
 
