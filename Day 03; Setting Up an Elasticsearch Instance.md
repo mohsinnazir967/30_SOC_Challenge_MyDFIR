@@ -44,10 +44,18 @@ Download Elasticsearch:
 wget <ElasticSearch-Deb-Package-URL>
 ```
 
+```
+wget https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-8.17.2-amd64.deb
+```
+
 Install:
    
 ```
 dpkg -i elasticsearch-<version>.deb
+```
+
+```
+dpkg -i elasticsearch-8.17.2-amd64.deb
 ```
 
 **Save Security Auto-Configuration Details** (contains superuser credentials).
@@ -58,3 +66,31 @@ dpkg -i elasticsearch-<version>.deb
 /usr/share/elasticsearch/bin/elasticsearch-reset-password -u elastic
 ```
 
+## 5. Configuring Elasticsearch
+
+Open the configuration file:
+
+```
+nano /etc/elasticsearch/elasticsearch.yml
+```
+
+
+Modify the following settings:
+
+**Network Host**:
+
+uncomment the network host line and edit.
+
+```
+network.host: <public-IP>
+```
+
+```
+network.host: 45.77.250.171
+```
+
+**HTTP Port** 
+
+uncomment the port line also. (leave as default `9200`).
+
+Save and exit (`Ctrl + X`, `Y`, `Enter`).
