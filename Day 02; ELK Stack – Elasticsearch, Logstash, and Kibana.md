@@ -69,3 +69,5 @@ Web console for searching and analyzing logs.
 - ELK Stack is widely used for **SIEM, monitoring, and log analysis**.
 - Many **commercial SIEMs** are built on ELK, making it a valuable skill.
 - Recommended for **SOC analysts** to learn for better career prospects.
+
+[[Day 03; Setting Up an Elasticsearch Instance]]

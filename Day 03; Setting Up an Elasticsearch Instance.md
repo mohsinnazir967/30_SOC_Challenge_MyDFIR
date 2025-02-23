@@ -124,3 +124,4 @@ systemctl status elasticsearch.service
 ```
 
 Ensure it is **active and running**.
+

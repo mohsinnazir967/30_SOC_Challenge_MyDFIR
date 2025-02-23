@@ -28,5 +28,4 @@
 
 ![[Network_Diagram.png]]
 
-
-
+[[Day 02; ELK Stack – Elasticsearch, Logstash, and Kibana]]
