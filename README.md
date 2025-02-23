@@ -39,7 +39,6 @@
 - Can be done with **any cloud provider** that supports **Windows VMs**.
 - Cloud is recommended to avoid **hardware limitations**.
 
-
 ## Motivation & Next Steps
 
 - Encourages **SOC aspirants** to take action and gain experience.
