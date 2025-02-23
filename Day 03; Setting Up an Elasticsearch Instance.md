@@ -10,3 +10,13 @@
     - **Name**: Example: `SOC_Simulation`.
     - Click **"Add Network"**.
 
+## 2. Deploying the Virtual Machine (VM)
+
+- Click **"Deploy"** > **"Deploy New Server"**.
+- **Location**: Same as VPC (e.g., Singapore).
+- **Image**: **Ubuntu** (64-bit).
+- **Server Size**: **4 vCPUs, 16GB RAM**.
+- **VPC Selection**: Choose the `SOC_Simulation`.
+- **Hostname**: Example: `Challenge-ELK`.
+- Click **"Deploy"** and wait until status is **Running**.
+
