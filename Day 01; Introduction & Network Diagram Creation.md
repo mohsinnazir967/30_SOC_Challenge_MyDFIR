@@ -1,4 +1,4 @@
-# Day 01 : Introduction & Network Diagram Creation
+# Day 01: Introduction & Network Diagram Creation
 
 ## Introduction
 

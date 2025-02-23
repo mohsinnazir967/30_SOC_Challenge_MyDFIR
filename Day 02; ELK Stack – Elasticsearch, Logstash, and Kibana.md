@@ -1,4 +1,4 @@
-# Day 2: ELK Stack – Elasticsearch, Logstash, and Kibana
+# Day 02: ELK Stack – Elasticsearch, Logstash, and Kibana
 
 ## Introduction
 
