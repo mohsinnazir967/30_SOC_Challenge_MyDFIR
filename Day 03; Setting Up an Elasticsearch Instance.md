@@ -36,3 +36,25 @@ Accept the connection (`yes`) and enter the copied password.
 apt-get update && apt-get upgrade -y
 ```
 
+## 4. Installing Elasticsearch
+
+Download Elasticsearch:
+ 
+```
+wget <ElasticSearch-Deb-Package-URL>
+```
+
+Install:
+   
+```
+dpkg -i elasticsearch-<version>.deb
+```
+
+**Save Security Auto-Configuration Details** (contains superuser credentials).
+
+### Reset Elasticsearch Password (if needed)
+
+```
+/usr/share/elasticsearch/bin/elasticsearch-reset-password -u elastic
+```
+
