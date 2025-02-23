@@ -26,25 +26,4 @@
         - SOC Analyst Laptop 
         - Attacker Laptop (Marked in Red)
 
-3. Configuring the Virtual Private Cloud (VPC)
-    
-    - VPC (Virtual Private Cloud) groups all servers in a private network.
-    - Subnet Range: `172.31.0.0/24`
-        - IP Range: `172.31.0.1 – 172.31.0.254`
-        - Subnet Mask: `255.255.255.0`
 
-4. Connecting Components
-    
-    - Windows & Ubuntu Servers → Fleet Server (Managed Agents)
-    - Fleet Server → Elastic & Kibana (Data Forwarding)
-    - OS Ticket Server ↔ Elastic & Kibana (Alerts & Tickets)
-    - Windows & Ubuntu Servers → Elastic & Kibana (Log Forwarding)
-    - Internet Gateway & Internet Cloud → Provide internet access.
-    - SOC Analyst Laptop → Elastic & Kibana (Web GUI)
-    - Attacker Laptop (Marked in Red) → C2 Server (Mythic)
-
-5. Finalizing the Diagram
-    
-    - Used different colors & line styles to represent connections.
-    - Ensured bidirectional arrows where applicable.
-    - Labeled all connections & functionalities.
