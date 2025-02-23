@@ -54,3 +54,8 @@ root@Challenge-ELK:/usr/share/elasticsearch/bin# ./elasticsearch-create-enrollme
 
 ```eyJ2ZXIiOiI4LjE0LjAiLCJhZHIiOlsiNDUuNzcuMjUwLjE3MTo5MjAwIl0sImZnciI6IjA0YzExZWI2M2RjMjVmNTIyNWFiZGEzYzUxOTAzYTFmMGNhNzIxOGE5MjE5ZjRkNjk2MmFlZWIwN2Y1MzdkMDMiLCJrZXkiOiJ4OFFiTTVVQlpETGhlZmZpMXd5Nzo3ZDlFcG52VFRWaVhzY04tcXU4elpBIn0=```
 
+## Kibaana Encryption Key
+
+xpack.encryptedSavedObjects.encryptionKey: d9fcd01abd54a5a5ea74ff28d0a5d204
+xpack.reporting.encryptionKey: cc5a8ed7c9dcf34e93175ac29d2f6c63
+xpack.security.encryptionKey: df49dc71246c27a293fed3e8af8f6850
