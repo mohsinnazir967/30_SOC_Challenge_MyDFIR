@@ -102,8 +102,9 @@ Save and exit (`Ctrl + X`, `Y`, `Enter`).
 Go to **Vultr > VM Settings > Firewall**.
 
 Click **"Manage"** > **"Add Firewall Group"**.
-    - Name: `SOC-Simulation`.
-    - Restrict SSH to your IP only.
+
+-  Name: `SOC-Simulation`.
+- Restrict SSH to your IP only.
 
 Assign the firewall to the VM under **Compute > VM > Settings > Firewall**.
 

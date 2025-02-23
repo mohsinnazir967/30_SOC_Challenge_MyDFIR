@@ -53,12 +53,14 @@
             "id": "4a49f99c8083fe94",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "{5F1D9027-2DA6-4336-8022-159C5DB52A74}.png"
+                "file": "Day 03 Setting Up an Elasticsearch Instance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "{5F1D9027-2DA6-4336-8022-159C5DB52A74}"
+              "icon": "lucide-file",
+              "title": "Day 03 Setting Up an Elasticsearch Instance"
             }
           }
         ],
@@ -213,10 +215,10 @@
   },
   "active": "4a49f99c8083fe94",
   "lastOpenFiles": [
+    "{5F1D9027-2DA6-4336-8022-159C5DB52A74}.png",
     "README.md",
     "Images",
     "Day 01 Introduction and Network Diagram Creation.md",
-    "{5F1D9027-2DA6-4336-8022-159C5DB52A74}.png",
     "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 02%3B ELK Stack – Elasticsearch%2C Logstash%2C and Kibana.md",
