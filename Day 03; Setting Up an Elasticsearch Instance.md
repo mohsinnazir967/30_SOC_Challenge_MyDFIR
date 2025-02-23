@@ -99,8 +99,28 @@ Save and exit (`Ctrl + X`, `Y`, `Enter`).
 
 ## 6. Setting Up a Firewall
 
-- Go to **Vultr > VM Settings > Firewall**.
-- Click **"Manage"** > **"Add Firewall Group"**.
-    - Name: `30-Day-MyDFIR-SOC-Challenge`.
+Go to **Vultr > VM Settings > Firewall**.
+
+Click **"Manage"** > **"Add Firewall Group"**.
+    - Name: `SOC-Simulation`.
     - Restrict SSH to your IP only.
-- Assign the firewall to the VM under **Compute > VM > Settings > Firewall**.
+
+Assign the firewall to the VM under **Compute > VM > Settings > Firewall**.
+
+## 7. Starting Elasticsearch Service
+
+Run the following commands:
+   
+```
+systemctl daemon-reload 
+systemctl enable elasticsearch.service
+systemctl start elasticsearch.service
+```
+
+**Check Status**:
+   
+```
+systemctl status elasticsearch.service
+```
+
+Ensure it is **active and running**.
