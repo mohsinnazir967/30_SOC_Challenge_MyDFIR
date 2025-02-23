@@ -20,3 +20,19 @@
 - **Hostname**: Example: `Challenge-ELK`.
 - Click **"Deploy"** and wait until status is **Running**.
 
+## 3. Connecting to the VM
+
+Open **PowerShell** and use SSH:
+
+```
+ssh root@<your-public-IP>
+```
+    
+Accept the connection (`yes`) and enter the copied password.
+
+**Update the system**:
+   
+```
+apt-get update && apt-get upgrade -y
+```
+
