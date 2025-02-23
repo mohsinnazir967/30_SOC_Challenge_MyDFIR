@@ -106,8 +106,8 @@ Click **"Manage"** > **"Add Firewall Group"**.
 -  Name: `SOC-Simulation`.
 - Restrict SSH to your IP only.
 
-Assign the firewall to the VM under **Compute > VM > Settings > Firewall**.
-
+Assign the firewall to the VM under **Compute > VM > Settings > Firewall **.
+- Select the new added firewall & update the firewall setting.
 ## 7. Starting Elasticsearch Service
 
 Run the following commands:
