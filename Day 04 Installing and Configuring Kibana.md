@@ -164,5 +164,4 @@ systemctl restart kibana
 
 Login again to confirm settings.
 
-
-
+[Day 05 Setting Up a Windows Server in the Cloud](Day%2005%20Setting%20Up%20a%20Windows%20Server%20in%20the%20Cloud.md)
