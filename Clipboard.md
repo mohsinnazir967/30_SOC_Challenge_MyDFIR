@@ -46,6 +46,11 @@ sudo systemctl enable elasticsearch.service
 ### You can start elasticsearch service by execut ing
 ```
 
+## Enrollment Token
 
+```
+root@Challenge-ELK:/usr/share/elasticsearch/bin# ./elasticsearch-create-enrollment-token --scope kibana
+```
 
+```eyJ2ZXIiOiI4LjE0LjAiLCJhZHIiOlsiNDUuNzcuMjUwLjE3MTo5MjAwIl0sImZnciI6IjA0YzExZWI2M2RjMjVmNTIyNWFiZGEzYzUxOTAzYTFmMGNhNzIxOGE5MjE5ZjRkNjk2MmFlZWIwN2Y1MzdkMDMiLCJrZXkiOiJ4OFFiTTVVQlpETGhlZmZpMXd5Nzo3ZDlFcG52VFRWaVhzY04tcXU4elpBIn0=```
 
