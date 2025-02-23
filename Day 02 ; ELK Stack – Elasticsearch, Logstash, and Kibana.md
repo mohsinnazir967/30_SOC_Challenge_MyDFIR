@@ -22,9 +22,9 @@ Supports **REST APIs & JSON** for interaction - Queries can also be made using K
 **Ingests, transforms, filters, and sends logs to Elasticsearch.**
 
 *Works with data collection tools:*
-    - **Beats:** Lightweight agents for specific log types:
-        - Filebeat (logs), Metricbeat (metrics), Packetbeat (network), Winlogbeat (Windows logs), Auditbeat (audit data), Heartbeat (uptime monitoring).
-    - **Elastic Agent:** A unified agent replacing multiple Beats.
+- **Beats:** Lightweight agents for specific log types:
+    - Filebeat (logs), Metricbeat (metrics), Packetbeat (network), Winlogbeat (Windows logs), Auditbeat (audit data), Heartbeat (uptime monitoring).
+-  **Elastic Agent:** A unified agent replacing multiple Beats.
 
 **Filtering:** Logstash can filter logs based on criteria (e.g., only logins with Event ID **4624**).
 
