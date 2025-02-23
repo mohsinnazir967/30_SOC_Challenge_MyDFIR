@@ -43,3 +43,8 @@
 
 - Encourages **SOC aspirants** to take action and gain experience.
 - Participation in the challenge improves **resume value** and **interview discussions**.
+
+[Day 01 Introduction and Network Diagram Creation](Day%2001%20Introduction%20and%20Network%20Diagram%20Creation.md)
+[Day 02 ELK Stack – Elasticsearch Logstash and Kibana](Day%2002%20ELK%20Stack%20%E2%80%93%20Elasticsearch%20Logstash%20and%20Kibana.md)
+[Day 03 Setting Up an Elasticsearch Instance](Day%2003%20Setting%20Up%20an%20Elasticsearch%20Instance.md)
+

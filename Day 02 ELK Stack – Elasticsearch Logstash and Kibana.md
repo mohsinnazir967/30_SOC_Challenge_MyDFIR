@@ -70,4 +70,4 @@ Web console for searching and analyzing logs.
 - Many **commercial SIEMs** are built on ELK, making it a valuable skill.
 - Recommended for **SOC analysts** to learn for better career prospects.
 
-[[Day 03; Setting Up an Elasticsearch Instance]]
+[Day 03 Setting Up an Elasticsearch Instance](Day%2003%20Setting%20Up%20an%20Elasticsearch%20Instance.md)
