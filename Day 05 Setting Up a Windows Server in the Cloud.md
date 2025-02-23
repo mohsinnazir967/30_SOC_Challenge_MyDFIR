@@ -12,27 +12,27 @@
         
 3. **Choose Server Type**
     
-    - Select **Cloud Compute (Shared CPU)** (sufficient for this use case).
+    - Select *Cloud Compute (Shared CPU)* (sufficient for this use case).
         
 4. **Select a Location**
     
-    - Choose a data center location (e.g., **Singapore**).
+    - Choose a data center location (e.g., *Singapore*).
         
 5. **Select an Operating System**
     
-    - Choose **Windows Standard 2022 (latest version)**.
+    - Choose *Windows Standard 2022 (latest version).*
         
 6. **Choose a Plan**
     
-    - Select the cheapest option: **$24/month** (1 vCPU, 2GB RAM).
+    - Select the cheapest option: *$24/month* (1 vCPU, 2GB RAM).
         
 7. **Disable Additional Features**
     
-    - **Auto backups** → Not required
+    - *Auto backups* → Not required
         
-    - **IPv6** → Not required
+    - *IPv6* → Not required
         
-    - **Virtual Private Cloud (VPC)** → Not selected (for security reasons)
+    - *Virtual Private Cloud (VPC)* → Not selected (for security reasons)
         
 8. **Set Hostname
         
@@ -40,7 +40,7 @@
         
 9. **Deploy the Server**
     
-    - Click **Deploy Now** and wait for the instance to start.
+    - Click *Deploy Now* and wait for the instance to start.
 
 ## 2. Accessing the Windows Server
 
