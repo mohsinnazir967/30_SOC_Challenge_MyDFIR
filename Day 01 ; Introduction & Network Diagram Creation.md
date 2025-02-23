@@ -26,4 +26,7 @@
         - SOC Analyst Laptop 
         - Attacker Laptop (Marked in Red)
 
+![[Network_Diagram.png]]
+
+
 
