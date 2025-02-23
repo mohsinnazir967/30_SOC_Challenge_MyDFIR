@@ -89,20 +89,77 @@ ufw allow 5601
 
 Paste the copied enrollment token in the web interface.
 
-Generate verification code in Terminal.
+**Generate verification code in Terminal:**
+
+Navigate to the Kibana binary directory
 
 ```
 cd /usr/share/kibana/bin
+```
 
+Generate the verification code 
+
+```
 ./kibana-verification-code
 ```
 
 Enter the displayed verification code.
+
+**Login**
   
-Use `elastic` as the username and retrieve the password from the installation log or reset it:
+Use `elastic` as the username and retrieve the password from the installation log or reset it 
+
+```
+cd /usr/share/elasticsearch/bin
+```
    
 ```
 ./elasticsearch-reset-password -u elastic
 ```
   
 Login to Kibana.
+## 8. Configure Encryption Keys
+
+Navigate to the Kibana binary directory
+
+```
+cd /usr/share/kibana/bin
+```
+
+**Generate encryption keys:**
+
+```
+./kibana-encryption-keys generate
+```
+  
+Copy the generated keys and store them.
+
+**Add them to the Kibana keystore:**
+
+Add the key one by one by running binaries and then giving values for each of the key 
+
+```
+./kibana-keystore add xpack.encryptedSavedObjects.encryptionKey
+```
+
+Paste value
+
+```
+./kibana-keystore add xpack.reporting.encryptionKey
+```
+
+Paste value
+
+```
+./kibana-keystore add xpack.security.encryptionKey
+ ```
+
+Paste value
+ 
+**Restart Kibana:**
+
+```
+systemctl restart kibana
+```
+
+Login again to confirm settings.
