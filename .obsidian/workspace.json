@@ -34,33 +34,9 @@
               "icon": "lucide-file",
               "title": "Day 01 ; Introduction & Network Diagram Creation"
             }
-          },
-          {
-            "id": "e7fe5725621f5f9d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-23 09.19.02.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-23 09.19.02.excalidraw"
-            }
-          },
-          {
-            "id": "9bd7229d54d799ba",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-23 09.19.02.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-23 09.19.02.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,14 +185,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9bd7229d54d799ba",
+  "active": "1e2f339c528e156e",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2025-02-23 09.19.30.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-23 09.26.52.excalidraw.md",
+    "Excalidraw",
     "Excalidraw/Drawing 2025-02-23 09.19.02.excalidraw.md",
+    "Untitled.md",
     "Excalidraw/Untitled.md",
     "Day 01 ; Introduction & Network Diagram Creation.md",
-    "Excalidraw",
     "README.md",
     "30_Days Challenge"
   ]
