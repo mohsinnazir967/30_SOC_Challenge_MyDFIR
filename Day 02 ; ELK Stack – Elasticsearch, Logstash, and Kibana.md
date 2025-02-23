@@ -7,9 +7,9 @@
 *Purpose:* Centralized logging, security monitoring, and data visualization.
 
 *Tools:*
-    - **Elasticsearch (E)** – Stores and searches logs.
-    - **Logstash (L)** – Collects, processes, and forwards logs.
-    - **Kibana (K)** – Web UI for querying and visualizing logs.
+- **Elasticsearch (E)** – Stores and searches logs.
+- **Logstash (L)** – Collects, processes, and forwards logs.
+- **Kibana (K)** – Web UI for querying and visualizing logs.
 
 ## Elasticsearch
 
