@@ -29,5 +29,80 @@ dpkg -i kibana-8.17.2-amd64.deb
 ```
 ## 3. Configure Kibana
 
+Open the configuration file using `nano`:
+  
+```
+sudo vim /etc/kibana/kibana.yml
+```
 
+Modify the following lines:
 
+```
+server.port: 5601
+server.host: <your_public_IP>
+```
+
+Save and exit (`Esc`,`:wq!`) 
+
+## 4. Start and Enable Kibana Service
+
+```
+systemctl daemon-reload
+systemctl enable kibana.service
+systemctl start kibana.service
+systemctl status kibana.service
+```
+## 5. Generate Enrollment Token
+
+Navigate to the Elasticsearch binary directory:
+  
+```
+cd /usr/share/elasticsearch/bin
+```
+  
+Generate the token: 
+
+```
+./elasticsearch-create-enrollment-token --scope kibana
+```
+
+Copy the generated token for later use.
+
+## 6. Access Kibana Web Interface
+
+Open a browser and go to:
+
+```
+http://<your_public_IP>:5601
+```
+
+If `Connection Timed Out` occurs:
+
+- Allow necessary ports in the firewall:
+ 
+```
+ufw allow 5601
+```
+ 
+- Modify `SOC-Simulation` cloud firewall rules to allow ports `1-65535` from your IP.
+### 7. Enter Enrollment Token and Login
+
+Paste the copied enrollment token in the web interface.
+
+Generate verification code in Terminal.
+
+```
+cd /usr/share/kibana/bin
+
+./kibana-verification-code
+```
+
+Enter the displayed verification code.
+  
+Use `elastic` as the username and retrieve the password from the installation log or reset it:
+   
+```
+./elasticsearch-reset-password -u elastic
+```
+  
+Login to Kibana.
