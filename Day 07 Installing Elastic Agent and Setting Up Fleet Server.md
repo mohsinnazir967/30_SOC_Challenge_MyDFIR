@@ -17,15 +17,16 @@
 
 ## 3. Access Web GUI
 
-- **Steps**:
-    1. Go to `Challenge-ELK` public IP address on port `5601`.
-    2. Select the hamburger icon > **Fleet** under **Management**.
-    3. Click on **Add Fleet Server**.
-    4. Choose **Quick Start**.
-    5. Name the server `Challange-Fleet-Server`.
-    6. Enter the public IP of `Challenge-Fleet-Server` (e.g., 155.138.1.155) with port 8220.
-    7. Ensure URL is in HTTPS format.
-    8. Click on **Generate Fleet Server Policy**.
+**Steps**:
+
+ 1. Go to `Challenge-ELK` public IP address on port `5601`.
+ 2. Select the hamburger icon > **Fleet** under **Management**.
+ 3. Click on **Add Fleet Server**.
+ 4. Choose **Quick Start**.
+ 5. Name the server `Challange-Fleet-Server`.
+ 6. Enter the public IP of `Challenge-Fleet-Server` (e.g., 155.138.1.155) with port 8220.
+ 7. Ensure URL is in HTTPS format.
+ 8. Click on **Generate Fleet Server Policy**.
 
 ## 4. Install Fleet Server
 
