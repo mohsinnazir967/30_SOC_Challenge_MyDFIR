@@ -12,18 +12,18 @@
 - Disable auto backups and IPv6.
 - Select **Virtual Private Cloud**.
 - Ensure network is selected (IP: 172.31.0.4).
-- Name the server `Challenge Fleet Server`.
+- Name the server `Challenge-Fleet-Server`.
 - Click on **Deploy**.
 
 ## 3. Access Web GUI
 
 - **Steps**:
-    1. Go to public IP address on port 5601.
+    1. Go to `Challenge-ELK` public IP address on port `5601`.
     2. Select the hamburger icon > **Fleet** under **Management**.
     3. Click on **Add Fleet Server**.
     4. Choose **Quick Start**.
-    5. Name the server `my dfir Das Fleet DS server`.
-    6. Enter the public IP (e.g., 155.138.1.155) with port 8220.
+    5. Name the server `Challange-Fleet-Server`.
+    6. Enter the public IP of `Challenge-Fleet-Server` (e.g., 155.138.1.155) with port 8220.
     7. Ensure URL is in HTTPS format.
     8. Click on **Generate Fleet Server Policy**.
 
