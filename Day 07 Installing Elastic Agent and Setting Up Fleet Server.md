@@ -11,7 +11,7 @@
     3. Disable auto backups and IPv6.
     4. Select **Virtual Private Cloud.
     5. Ensure network is selected (IP: 172.31.0.4).
-    6. Name the server `Challenge Fleet DS server`.
+    6. Name the server `Challenge Fleet server`.
     7. Click on **Deploy**.
 
 ## 3. Access Web GUI
