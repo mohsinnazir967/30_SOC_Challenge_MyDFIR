@@ -54,12 +54,13 @@ sudo ufw allow 9200
 
 ## 6. Enroll Elastic Agent
 
-- **Steps**:
-    1. Confirm Fleet server connection.
-    2. Click on **Continue Enrolling Elastic Agent**.
-    3. Create a policy (e.g., `my defer D Windows d policy`).
-    4. Select **Windows** as the host type.
-    5. Copy the installation command.
+**Steps**:
+
+   1. Confirm Fleet server connection.
+   2. Click on **Continue Enrolling Elastic Agent**.
+   3. Create a policy (e.g., `Challenge Windows policy`).
+   4. Select **Windows** as the host type.
+   5. Copy the installation command.
 
 ## 7. Install Agent on Windows Server
 
