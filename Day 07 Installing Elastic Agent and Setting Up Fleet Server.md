@@ -36,7 +36,8 @@
 3. Update repositories: `apt-get update` and `apt-get upgrade -y`.
 4. Paste the copied configuration to install Elastic Agent.
 5. Ensure connection to Elasticsearch (port 9200). 
-6. Allow the port 9200 on `Challenge-ELK`
+6. Allow the `Challenge-Fleet-Server` to communicate with the `Challenge-ELK-Server`. Update the `SOC Simulation` firewall setting to allow `TCP` port `1-65535` from `Challenge-Fleet-Server` Public IP.
+7. Allow the port 9200 on `Challenge-ELK`
  
 ```
 sudo ufw allow 9200
