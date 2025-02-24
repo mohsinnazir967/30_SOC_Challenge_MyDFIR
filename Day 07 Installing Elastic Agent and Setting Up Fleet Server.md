@@ -46,10 +46,11 @@ sudo ufw allow 9200
 
 ## 5. Troubleshooting
 
-- **Firewall Rules**:
-    1. Modify firewall rules to allow Fleet server to access Elasticsearch.
-    2. Use `ufw allow 9200` on the ELK server.
-    3. Ensure Fleet server can communicate with ELK server.
+**Firewall Rules**:
+
+   1. Modify firewall rules to allow Fleet server to access Elasticsearch.
+   2. Use `ufw allow 9200` on the ELK server.
+   3. Ensure Fleet server can communicate with ELK server.
 
 ## 6. Enroll Elastic Agent
 
