@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Day 03 Setting Up an Elasticsearch Instance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Day 03 Setting Up an Elasticsearch Instance"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Day 03 Setting Up an Elasticsearch Instance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Day 03 Setting Up an Elasticsearch Instance"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Day 03 Setting Up an Elasticsearch Instance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Day 03 Setting Up an Elasticsearch Instance"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Day 03 Setting Up an Elasticsearch Instance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Day 03 Setting Up an Elasticsearch Instance"
             }
           }
         ]
@@ -171,17 +171,17 @@
   },
   "active": "347c172881b96b23",
   "lastOpenFiles": [
+    "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Clipboard.md",
     "Images/Network_Diagram.png",
     "Day 05 Setting Up a Windows Server in the Cloud.md",
     "Day 01 Introduction and Network Diagram Creation.md",
-    "README.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
     "Netwrok_Diagram.drawio",
     "Images",
     "Day 04 Installing and Configuring Kibana.md",
-    "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
     "30_Days Challenge"
   ]
 }
