@@ -2,17 +2,18 @@
 
 ## 1. Introduction
 
-- **Goal**: Install Elastic Agent on Windows server and set up Fleet server for centralized management.
+**Goal**: Install Elastic Agent on Windows server and set up Fleet server for centralized management.
 ## 2. Create Fleet Server
 
-- **Steps**:
-    1. Click on **Deploy** > **Deploy New Server**.
-    2. Select **Singapore** and **Ubuntu 22.04** (1 CPU, 4 GB RAM).
-    3. Disable auto backups and IPv6.
-    4. Select **Virtual Private Cloud.
-    5. Ensure network is selected (IP: 172.31.0.4).
-    6. Name the server `Challenge Fleet Server`.
-    7. Click on **Deploy**.
+**Steps**:
+
+- Click on **Deploy** > **Deploy New Server**.
+- Select **Singapore** and **Ubuntu 22.04** (1 CPU, 4 GB RAM).
+- Disable auto backups and IPv6.
+- Select **Virtual Private Cloud**.
+- Ensure network is selected (IP: 172.31.0.4).
+- Name the server `Challenge Fleet Server`.
+- Click on **Deploy**.
 
 ## 3. Access Web GUI
 
