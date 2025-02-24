@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 06 Understanding Fleet Server and Elastic Agent.md",
+                "file": "Day 04 Installing and Configuring Kibana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 06 Understanding Fleet Server and Elastic Agent"
+              "title": "Day 04 Installing and Configuring Kibana"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 06 Understanding Fleet Server and Elastic Agent.md",
+                "file": "Day 04 Installing and Configuring Kibana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 06 Understanding Fleet Server and Elastic Agent"
+              "title": "Backlinks for Day 04 Installing and Configuring Kibana"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 06 Understanding Fleet Server and Elastic Agent.md",
+                "file": "Day 04 Installing and Configuring Kibana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 06 Understanding Fleet Server and Elastic Agent"
+              "title": "Outgoing links from Day 04 Installing and Configuring Kibana"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 06 Understanding Fleet Server and Elastic Agent.md",
+                "file": "Day 04 Installing and Configuring Kibana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 06 Understanding Fleet Server and Elastic Agent"
+              "title": "Outline of Day 04 Installing and Configuring Kibana"
             }
           }
         ]
