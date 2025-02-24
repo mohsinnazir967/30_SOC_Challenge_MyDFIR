@@ -29,12 +29,18 @@
 
 ## 4. Install Fleet Server
 
-- **Steps**:
-    1. Copy the generated token and configuration.
-    2. Access the Fleet server via SSH.
-    3. Update repositories: `apt-get update` and `apt-get upgrade -y`.
-    4. Paste the copied configuration to install Elastic Agent.
-    5. Ensure connection to Elasticsearch (port 9200).
+**Steps**:
+
+1. Copy the generated token and configuration.
+2. Access the Fleet server via SSH.
+3. Update repositories: `apt-get update` and `apt-get upgrade -y`.
+4. Paste the copied configuration to install Elastic Agent.
+5. Ensure connection to Elasticsearch (port 9200). 
+6. Allow the port 9200 on `Challenge-ELK`
+ 
+```
+sudo ufw allow 9200
+```
 
 ## 5. Troubleshooting
 
