@@ -63,3 +63,5 @@
 [Day 09 Installing and Configuring Sysmon](Day%2009%20Installing%20and%20Configuring%20Sysmon.md)
 
 [Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch](Day%2010%20Ingesting%20Sysmon%20and%20Microsoft%20Defender%20Logs%20into%20Elasticsearch.md)
+
+[Day 11 Understanding and Defending Against Brute Force Attacks](Day%2011%20Understanding%20and%20Defending%20Against%20Brute%20Force%20Attacks.md)
