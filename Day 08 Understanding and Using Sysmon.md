@@ -25,21 +25,26 @@
 **Process Creations**: Logs command lines for parent and current processes.
 
 **Hashes**: Records process hashes for additional context.
-**Process GUID**: Correlates events for a bigger picture.
-- **Network Connections**: Logs source and destination IPs, ports, and involved processes (disabled by default).
 
+**Process GUID**: Correlates events for a bigger picture.
+
+**Network Connections**: Logs source and destination IPs, ports, and involved processes (disabled by default).
 ## 5. Important Event IDs
 
-- **Event ID 1**: Process Creation
-    - Tracks new processes and command lines.
-    - Logs file hashes for additional context.
-- **Event ID 3**: Network Connections
-    - Disabled by default, must be enabled via configuration file.
-    - Tracks network connections, source and destination IPs, ports.
-- **Event IDs 6, 7, 8**: Driver, Image Load, Create Remote Thread
-    - Identifies potential defense evasion techniques like process injection.
-    - Event ID 7 (Image Load) is disabled by default.
-- **Event ID 10**: Process Access
-    - Common for detecting credential access attempts on LSASS process.
-- **Event ID 22**: DNS Query
-    - Tracks domain requests, useful for identifying compromised endpoints.
+**Event ID 1**: Process Creation
+- Tracks new processes and command lines.
+- Logs file hashes for additional context.
+
+**Event ID 3**: Network Connections
+- Disabled by default, must be enabled via configuration file.
+- Tracks network connections, source and destination IPs, ports.
+
+**Event IDs 6, 7, 8**: Driver, Image Load, Create Remote Thread
+- Identifies potential defense evasion techniques like process injection.
+- Event ID 7 (Image Load) is disabled by default.
+
+**Event ID 10**: Process Access
+- Common for detecting credential access attempts on LSASS process.
+
+**Event ID 22**: DNS Query
+- Tracks domain requests, useful for identifying compromised endpoints.
