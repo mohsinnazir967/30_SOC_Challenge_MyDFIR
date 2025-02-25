@@ -33,27 +33,35 @@ Commonly seen in honeypots.
 
 ## 4. Protecting Against Brute Force Attacks
 
-- **Long Passwords/Passphrases**:
-    - Use 15+ character passwords or passphrases.
-    - Include uppercase letters, numbers, and special characters.
-    - Use a password manager to generate and store passwords.
-- **Multifactor Authentication (MFA)**:
-    - Adds an additional layer of security.
-    - Prompts for an additional authentication method (SMS, email, authenticator).
-    - Recommended to use an authenticator over SMS or email.
-- **Vigilance**:
-    - Adopt a mindset of questioning and high alert.
-    - Verify the source and purpose of emails asking for login.
-    - Sign up for alerts on haveibeenpwned.com to check if your email was compromised.
+**Long Passwords/Passphrases**:
+
+ - Use 15+ character passwords or passphrases.
+ - Include uppercase letters, numbers, and special characters.
+ - Use a password manager to generate and store passwords.
+
+**Multifactor Authentication (MFA)**:
+
+- Adds an additional layer of security.
+- Prompts for an additional authentication method (SMS, email, authenticator).
+- Recommended to use an authenticator over SMS or email.
+
+**Vigilance**: >> the action or state of keeping careful watch for possible danger or difficulties.
+
+- Adopt a mindset of questioning and high alert.
+- Verify the source and purpose of emails asking for login.
+- Sign up for alerts on haveibeenpwned.com to check if your email was compromised.
 ## 5. Additional Protection Measures
 
-- **Check Attack Surface**:
-    - Identify publicly available assets and services (e.g., SSH, RDP).
-    - Disable unnecessary services or place them behind a firewall.
+**Check Attack Surface**:
+
+- Identify publicly available assets and services (e.g., SSH, RDP).
+- Disable unnecessary services or place them behind a firewall.
 
 ## 6. Common Tools for Brute Force Attacks
 
 - **Hydra**
 - **Hashcat**
 - **John the Ripper**
-- **Note**: Use these tools ethically on machines you own or have permission to test.
+
+
+**Note**: Use these tools ethically on machines you own or have permission to test.
