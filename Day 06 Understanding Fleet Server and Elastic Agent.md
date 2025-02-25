@@ -30,3 +30,4 @@
 
 **Without Fleet Server**: Manual updates are required, which can be difficult.
 
+[Day 07 Installing Elastic Agent and Setting Up Fleet Server](Day%2007%20Installing%20Elastic%20Agent%20and%20Setting%20Up%20Fleet%20Server.md)

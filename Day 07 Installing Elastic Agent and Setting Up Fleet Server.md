@@ -85,3 +85,4 @@ sudo ufw allow 9200
     1. Check the Elastic web GUI for the enrolled Windows server.
     2. Go to **Discover** and search for logs from the Windows server.
     3. Verify logs are being captured (e.g., event code 4625 for failed logon attempts).
+
