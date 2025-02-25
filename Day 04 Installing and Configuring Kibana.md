@@ -85,7 +85,7 @@ ufw allow 5601
 ```
  
 - Modify `SOC-Simulation` cloud firewall rules to allow ports `1-65535` from your IP.
-### 7. Enter Enrollment Token and Login
+## 7. Enter Enrollment Token and Login
 
 Paste the copied enrollment token in the web interface.
 

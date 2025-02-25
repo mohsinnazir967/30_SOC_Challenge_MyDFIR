@@ -87,4 +87,4 @@ Sign in to the Windows Server.
     - These will generate logs, which will be analyzed in later videos.
 
 
-[Day 06 Understanding Fleet Server and Elastic Agent](Day%2006%20Understanding%20Fleet%20Server%20and%20Elastic%20Agent)
+[Day 06 Understanding Fleet Server and Elastic Agent](Day%2006%20Understanding%20Fleet%20Server%20and%20Elastic%20Agent.md)
