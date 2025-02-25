@@ -66,4 +66,4 @@ an account.
 
 **Note**: Use these tools ethically on machines you own or have permission to test.
 
-[Day 12 Setting Up an SSH Server and Reviewing Authentication Logs](Day 12%20Setting%20Up%20an%20SSH%20Server%20and%20Reviewing%20Authentication%20Logs.md)
+[Day 12 Setting Up an SSH Server and Reviewing Authentication Logs](Day%2012%20Setting%20Up%20an%20SSH%20Server%20and%20Reviewing%20Authentication%20Logs.md)
