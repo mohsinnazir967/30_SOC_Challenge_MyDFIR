@@ -33,7 +33,7 @@
 
 1. Click on **Add Custom Windows Event Logs**.
 2. Name the integration (e.g., `Challenge-Win-Defender`).
-3. Description: Collect Defender logs.
+3. Description: `Collect Windows Defender logs from widows for Event ID 1116,1117 & 5001`
 4. Obtain the channel name from Event Viewer on the Windows server:
     - Navigate to Applications and Services Logs > Microsoft > Windows > Windows Defender > Operational.
     - Right-click **Operational** and select **Properties**.
