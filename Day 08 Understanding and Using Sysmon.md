@@ -51,3 +51,4 @@
 
 [Read More About Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
 
+[Day 09 Installing and Configuring Sysmon](Day%2009%20Installing%20and%20Configuring%20Sysmon.md)

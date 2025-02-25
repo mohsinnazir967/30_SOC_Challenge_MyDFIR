@@ -60,5 +60,5 @@
 
 [Day 08 Understanding and Using Sysmon](Day%2008%20Understanding%20and%20Using%20Sysmon.md)
 
-
+[Day 09 Installing and Configuring Sysmon](Day%2009%20Installing%20and%20Configuring%20Sysmon.md)
 
