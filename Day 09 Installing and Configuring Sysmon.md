@@ -4,7 +4,6 @@
 
 **Goal**: Install Sysmon on Windows server and confirm it generates logs.
 
-
 ## 2. Connect to Windows Server 
 
 **Steps**:
@@ -22,17 +21,20 @@ Directly download form this link [Download Sysmon](https://learn.microsoft.com/e
 
 ## 4. Extract Sysmon
 
-- **Steps**:
-    1. Navigate to the Downloads folder.
-    2. Right-click Sysmon and select "Extract All".
-    3. Confirm three binaries are extracted.
+**Steps**:
+
+1. Navigate to the Downloads folder.
+2. Right-click Sysmon and select "Extract All".
+3. Confirm three binaries are extracted.
 
 ## 5. Download Configuration File
 
 - **Steps**:
-    1. Google "Sysmon Olaf configuration" and select the GitHub link.
-    2. Download the `sysmonconfig.xml` file.
-    3. Save the configuration file in the Sysmon directory.
+
+1. Google "Sysmon Olaf configuration" and select the GitHub link.
+2. In GitHub repository select the [sysmonconfig.xml](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml)
+3. Download the [sysmonconfig.xml](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml) file.
+4. Save the configuration file in the Sysmon directory.
 
 ## 6. Open PowerShell
 
