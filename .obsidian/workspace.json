@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "01a414e43fb6df32",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Network_Diagram.png"
-              },
-              "icon": "lucide-image",
-              "title": "Network_Diagram"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,6 +184,9 @@
   },
   "active": "1e2f339c528e156e",
   "lastOpenFiles": [
+    "Images/Netwrok_Diagram.png",
+    "Images/Netwrok_Diagram.drawio.png",
+    "Netwrok_Diagram.drawio.png",
     "Images/Network_Diagram.png",
     "Clipboard.md",
     "README.md",

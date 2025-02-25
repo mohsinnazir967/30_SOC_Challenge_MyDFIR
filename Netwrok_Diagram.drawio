@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.16">
   <diagram name="Page-1" id="kv7-iJnYmjtBgQNiHRv9">
-    <mxGraphModel dx="2438" dy="1992" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="1890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RU6ulck9YAmI_0JQSv8K-5" value="Fleet Server" style="sketch=0;outlineConnect=0;fillColor=#76608a;strokeColor=#432D57;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;gradientDirection=radial;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="RU6ulck9YAmI_0JQSv8K-5" value="Fleet Server" style="sketch=0;outlineConnect=0;fillColor=#76608a;strokeColor=#432D57;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.servers;gradientDirection=radial;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="251" y="560" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="RU6ulck9YAmI_0JQSv8K-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="RU6ulck9YAmI_0JQSv8K-6" target="RU6ulck9YAmI_0JQSv8K-5" edge="1">
