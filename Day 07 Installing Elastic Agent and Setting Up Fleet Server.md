@@ -80,6 +80,7 @@ sudo ufw allow 9200
     3. Allow port 443 on the Fleet server: `ufw allow 443`.
     4. Modify Fleet server settings in the Elastic web GUI to use port 8220.
     5. Use `--insecure` flag to bypass self-signed certificate error.
+    6. Allow the `Challenge-Windows-Haji` to communicate with `Challenge-ELK` on port `9200` by adding rule in he `SOC Simulation` Firewall.
 
 ## 9. Verify Enrollment
 
