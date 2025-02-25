@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
+                "file": "Day 11 Understanding and Defending Against Brute Force Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs"
+              "title": "Day 11 Understanding and Defending Against Brute Force Attacks"
             }
           }
         ],
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
+                "file": "Day 11 Understanding and Defending Against Brute Force Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 12 Setting Up an SSH Server and Reviewing Authentication Logs"
+              "title": "Backlinks for Day 11 Understanding and Defending Against Brute Force Attacks"
             }
           },
           {
@@ -212,12 +212,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
+                "file": "Day 11 Understanding and Defending Against Brute Force Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 12 Setting Up an SSH Server and Reviewing Authentication Logs"
+              "title": "Outgoing links from Day 11 Understanding and Defending Against Brute Force Attacks"
             }
           },
           {
@@ -241,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
+                "file": "Day 11 Understanding and Defending Against Brute Force Attacks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 12 Setting Up an SSH Server and Reviewing Authentication Logs"
+              "title": "Outline of Day 11 Understanding and Defending Against Brute Force Attacks"
             }
           }
         ]
@@ -270,8 +270,8 @@
   },
   "active": "288399421c1df427",
   "lastOpenFiles": [
-    "README.md",
     "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
+    "README.md",
     "Raw Data.md",
     "Day 11 Understanding and Defending Against Brute Force Attacks.md",
     "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
