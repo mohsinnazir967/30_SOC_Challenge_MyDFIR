@@ -54,5 +54,5 @@
 
 [Day 05 Setting Up a Windows Server in the Cloud](Day%2005%20Setting%20Up%20a%20Windows%20Server%20in%20the%20Cloud.md)
 
-[Day 06 Understanding Fleet Server and Elastic Agent](Day%2006%20Understanding%20Fleet%20Server%20and%20Elastic%20Agent)
+[Day 06 Understanding Fleet Server and Elastic Agent](Day%2006%20Understanding%20Fleet%20Server%20and%20Elastic%20Agent.md)
 

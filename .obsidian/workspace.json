@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 05 Setting Up a Windows Server in the Cloud.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 05 Setting Up a Windows Server in the Cloud"
+              "title": "README"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 05 Setting Up a Windows Server in the Cloud.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 05 Setting Up a Windows Server in the Cloud"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 05 Setting Up a Windows Server in the Cloud.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 05 Setting Up a Windows Server in the Cloud"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 05 Setting Up a Windows Server in the Cloud.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 05 Setting Up a Windows Server in the Cloud"
+              "title": "Outline of README"
             }
           }
         ]
@@ -200,9 +200,9 @@
   },
   "active": "01a414e43fb6df32",
   "lastOpenFiles": [
-    "Day 04 Installing and Configuring Kibana.md",
-    "Day 05 Setting Up a Windows Server in the Cloud.md",
     "Day 06 Understanding Fleet Server and Elastic Agent.md",
+    "Day 05 Setting Up a Windows Server in the Cloud.md",
+    "Day 04 Installing and Configuring Kibana.md",
     "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
     "Clipboard.md",
