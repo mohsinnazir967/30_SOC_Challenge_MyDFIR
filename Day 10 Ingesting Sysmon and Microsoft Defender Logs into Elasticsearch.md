@@ -14,17 +14,17 @@
 
 **Steps**:
 
-1. Search for "Sysmon" and select **Custom Windows Event Log**.
+1. Search for "Windows" and select **Custom Windows Event Log**.
 2. Click on **Add Custom Windows Event Logs**.
-3. Name the integration (e.g., `my DFI dwin Das cismon`).
-4. Description: Collect Sysmon logs.
+3. Name the integration (e.g., `Challenge-Win-Sysmon`).
+4. Description: `Collect Sysmon logs from windows hosts`.
 5. Obtain the channel name from Event Viewer on the Windows server:
     - Open Event Viewer.
     - Navigate to Applications and Services Logs > Microsoft > Windows > Sysmon > Operational.
     - Right-click **Operational** and select **Properties**.
-    - Copy the full name (channel name).
+    - Copy the full name (`Microsoft-Windows-Sysmon/Operational`).
 6. Paste the channel name into the integration setup.
-7. Add the integration to an existing host and select the agent policy (e.g., `my defer Windows policy`).
+7. Add the integration to an existing host and select the agent policy (e.g., `Challenge Windows Policy`).
 8. Click on **Save and Continue** and then **Save and Deploy Changes**.
 
 ## 4. Add Microsoft Defender Integration
@@ -32,12 +32,12 @@
 **Steps**:
 
 1. Click on **Add Custom Windows Event Logs**.
-2. Name the integration (e.g., `my df- win- Defender`).
+2. Name the integration (e.g., `Challenge-Win-Defender`).
 3. Description: Collect Defender logs.
 4. Obtain the channel name from Event Viewer on the Windows server:
     - Navigate to Applications and Services Logs > Microsoft > Windows > Windows Defender > Operational.
     - Right-click **Operational** and select **Properties**.
-    - Copy the full name (channel name).
+    - Copy the full name (`Microsoft-Windows-Windows Defender/Operational`).
 5. Paste the channel name into the integration setup.
 6. Specify event IDs to include (e.g., 1116, 1117, 50001).
 7. Add the integration to an existing host and select the agent policy (e.g., `my defer Windows policy`).
