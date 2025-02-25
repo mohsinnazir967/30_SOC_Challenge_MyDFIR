@@ -29,3 +29,4 @@
 **Benefits**: Easy policy updates, new integrations, data forwarding, agent updates, and enrollment.
 
 **Without Fleet Server**: Manual updates are required, which can be difficult.
+
