@@ -38,21 +38,29 @@ Directly download form this link [Download Sysmon](https://learn.microsoft.com/e
 
 ## 6. Open PowerShell
 
-- **Steps**:
-    1. Open PowerShell as Administrator.
-    2. Navigate to the Sysmon directory using `cd`.
+**Steps**:
+
+1. Open PowerShell as Administrator.
+2. Navigate to the Sysmon directory using `cd`.
 
 ## 7. Install Sysmon
 
-- **Steps**:
-    1. Run `sysmon64.exe -accepteula -i sysmonconfig.xml`.
-    2. Agree to the license agreement.
-    3. Confirm Sysmon service is running in Services.
-    4. Check Event Viewer for Sysmon logs.
+**Steps**:
 
+1. Run the command
+
+```
+./sysmon64.exe -accepteula -i sysmonconfig.xml
+```
+
+1. Confirm Sysmon service is running in Services.
+2. Check Event Viewer for Sysmon logs.
+	- Expand **Applications and Services Logs**.
+	- Find the **Microsoft > Windows > Sysmon > Operational** log and view the Sysmon log entries.
 ## 8. Verify Installation
 
-- **Steps**:
-    1. Open Event Viewer.
-    2. Navigate to Applications and Services Logs > Microsoft > Windows > Sysmon > Operational.
-    3. Confirm Event ID 3 (Network Connections) is logged.
+**Steps**:
+
+1. Open Event Viewer.
+2. Navigate to Applications and Services Logs > Microsoft > Windows > Sysmon > Operational.
+3. Confirm that logs are generated.
