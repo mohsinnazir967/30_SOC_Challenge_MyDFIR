@@ -4,20 +4,21 @@
 
 **Goal**: Install Sysmon on Windows server and confirm it generates logs.
 
-## 2. Download Sysmon
+
+## 2. Connect to Windows Server 
+
+**Steps**:
+
+  1. Use Remote Desktop to connect to the Windows server `Challenge-WIN-Haji` (IP and credentials provided).
+  2. Open Microsoft Edge and download Sysmon.
+
+## 3. Download Sysmon
 
 **Steps**:
 
 Google "Sysmon" and select the first link (learn.microsoft.com).
 
 Directly download form this link [Download Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)
-
-## 3. Connect to Windows Server
-
-**Steps**:
-
-  1. Use Remote Desktop to connect to the Windows server (IP and credentials provided).
-  2. Open Microsoft Edge and download Sysmon.
 
 ## 4. Extract Sysmon
 
