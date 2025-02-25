@@ -28,6 +28,8 @@
  7. Ensure URL is in HTTPS format.
  8. Click on **Generate Fleet Server Policy**.
 
+Note : Instead of Quick Start for Advanced Setup [read more](https://www.leveleffect.com/blog/home-lab-ingesting-data-with-agent-and-fleet)
+
 ## 4. Install Fleet Server
 
 **Steps**:
