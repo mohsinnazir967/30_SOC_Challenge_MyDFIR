@@ -64,3 +64,5 @@ Directly download form this link [Download Sysmon](https://learn.microsoft.com/e
 1. Open Event Viewer.
 2. Navigate to Applications and Services Logs > Microsoft > Windows > Sysmon > Operational.
 3. Confirm that logs are generated.
+
+[Day 09 Installing and Configuring Sysmon](Day%2009%20Installing%20and%20Configuring Sysmon)
