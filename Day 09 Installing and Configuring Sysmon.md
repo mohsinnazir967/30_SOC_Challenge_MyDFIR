@@ -65,4 +65,4 @@ Directly download form this link [Download Sysmon](https://learn.microsoft.com/e
 2. Navigate to Applications and Services Logs > Microsoft > Windows > Sysmon > Operational.
 3. Confirm that logs are generated.
 
-
+[Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch](Day%2010%20Ingesting%20Sysmon%20and%20Microsoft%20Defender%20Logs%20into%20Elasticsearch)

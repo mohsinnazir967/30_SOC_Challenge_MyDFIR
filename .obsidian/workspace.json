@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch"
+              "title": "README"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -184,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch"
+              "title": "Outline of README"
             }
           }
         ]
