@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
+                "file": "Day 09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 07 Installing Elastic Agent and Setting Up Fleet Server"
+              "title": "Day 09"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
+                "file": "Day 09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 07 Installing Elastic Agent and Setting Up Fleet Server"
+              "title": "Backlinks for Day 09"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
+                "file": "Day 09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 07 Installing Elastic Agent and Setting Up Fleet Server"
+              "title": "Outgoing links from Day 09"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
+                "file": "Day 09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 07 Installing Elastic Agent and Setting Up Fleet Server"
+              "title": "Outline of Day 09"
             }
           }
         ]
@@ -214,8 +214,8 @@
   },
   "active": "021069dee0a3fde6",
   "lastOpenFiles": [
-    "Day 06 Understanding Fleet Server and Elastic Agent.md",
     "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
+    "Day 06 Understanding Fleet Server and Elastic Agent.md",
     "Day 09.md",
     "Day 08 Understanding and Using Sysmon.md",
     "README.md",
