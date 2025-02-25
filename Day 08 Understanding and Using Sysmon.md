@@ -48,3 +48,5 @@
 
 **Event ID 22**: DNS Query
 - Tracks domain requests, useful for identifying compromised endpoints.
+
+[Read More About Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon)

@@ -86,3 +86,4 @@ sudo ufw allow 9200
     2. Go to **Discover** and search for logs from the Windows server.
     3. Verify logs are being captured (e.g., event code 4625 for failed logon attempts).
 
+[Day 08 Understanding and Using Sysmon](Day%2008%20Understanding%20and%20Using%20Sysmon.md)

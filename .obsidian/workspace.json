@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 08 Understanding and Using Sysmon.md",
+                "file": "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 08 Understanding and Using Sysmon"
+              "title": "Day 07 Installing Elastic Agent and Setting Up Fleet Server"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 08 Understanding and Using Sysmon.md",
+                "file": "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 08 Understanding and Using Sysmon"
+              "title": "Backlinks for Day 07 Installing Elastic Agent and Setting Up Fleet Server"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 08 Understanding and Using Sysmon.md",
+                "file": "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 08 Understanding and Using Sysmon"
+              "title": "Outgoing links from Day 07 Installing Elastic Agent and Setting Up Fleet Server"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 08 Understanding and Using Sysmon.md",
+                "file": "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 08 Understanding and Using Sysmon"
+              "title": "Outline of Day 07 Installing Elastic Agent and Setting Up Fleet Server"
             }
           }
         ]
@@ -200,9 +200,9 @@
   },
   "active": "7702291cdb51dc9c",
   "lastOpenFiles": [
+    "Day 08 Understanding and Using Sysmon.md",
     "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
-    "Day 08 Understanding and Using Sysmon.md",
     "README.md",
     "Day 01 Introduction and Network Diagram Creation.md",
     "Images/Network_Diagram.png",
