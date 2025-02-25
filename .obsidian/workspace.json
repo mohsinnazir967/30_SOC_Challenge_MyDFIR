@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 01 Introduction and Network Diagram Creation.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 01 Introduction and Network Diagram Creation"
+              "title": "README"
+            }
+          },
+          {
+            "id": "7702291cdb51dc9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 08"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 01 Introduction and Network Diagram Creation.md",
+                "file": "Day 08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 01 Introduction and Network Diagram Creation"
+              "title": "Backlinks for Day 08"
             }
           },
           {
@@ -128,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 01 Introduction and Network Diagram Creation.md",
+                "file": "Day 08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 01 Introduction and Network Diagram Creation"
+              "title": "Outgoing links from Day 08"
             }
           },
           {
@@ -157,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 01 Introduction and Network Diagram Creation.md",
+                "file": "Day 08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 01 Introduction and Network Diagram Creation"
+              "title": "Outline of Day 08"
             }
           }
         ]
@@ -184,16 +198,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b55fee4c2aac6a2c",
+  "active": "7702291cdb51dc9c",
   "lastOpenFiles": [
+    "README.md",
+    "Day 08.md",
+    "Day 01 Introduction and Network Diagram Creation.md",
     "Images/Network_Diagram.png",
     "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
     "Day 06 Understanding Fleet Server and Elastic Agent.md",
-    "Day 01 Introduction and Network Diagram Creation.md",
     "Clipboard.md",
     "Images/Netwrok_Diagram.drawio.png",
     "Netwrok_Diagram.drawio.png",
-    "README.md",
     "Day.md",
     "Day 01 Introduction and Network Diagram.md",
     "Day 05 Setting Up a Windows Server in the Cloud.md",
