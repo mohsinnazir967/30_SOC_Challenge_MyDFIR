@@ -63,3 +63,4 @@
 2. Allow incoming connections to port 9200 on the Elasticsearch server.
 3. Refresh the agent details page and check for updated logs.
 
+[Day 11 Understanding and Defending Against Brute Force Attacks](Day%2011%20Understanding%20and%20Defending%20Against%20Brute%20Force%20Attacks.md)

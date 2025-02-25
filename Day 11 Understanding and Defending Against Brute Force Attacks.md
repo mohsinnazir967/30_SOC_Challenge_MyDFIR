@@ -17,19 +17,19 @@ an account.
 
 **Simple Brute Force Attack**:
 
-Tries every combination starting from 0000.
-Automated attempts to gain unauthorized access.
+- Tries every combination starting from 0000.
+- Automated attempts to gain unauthorized access.
 
 **Dictionary Attack**:
 
-Uses a word list containing common words, phrases, and passwords from credential dumps.
+- Uses a word list containing common words, phrases, and passwords from credential dumps.
 
-Higher success rate due to repeated passwords.
+- Higher success rate due to repeated passwords.
 
 **Credential Stuffing**:
 
-Uses credential dumps to try every username and password combination.
-Commonly seen in honeypots.
+- Uses credential dumps to try every username and password combination.
+- Commonly seen in honeypots.
 
 ## 4. Protecting Against Brute Force Attacks
 
@@ -65,3 +65,4 @@ Commonly seen in honeypots.
 
 
 **Note**: Use these tools ethically on machines you own or have permission to test.
+
