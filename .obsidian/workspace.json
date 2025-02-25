@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Day 09 Installing and Configuring Sysmon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Day 09 Installing and Configuring Sysmon"
             }
           }
         ],
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Day 09 Installing and Configuring Sysmon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Day 09 Installing and Configuring Sysmon"
             }
           },
           {
@@ -184,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Day 09 Installing and Configuring Sysmon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Day 09 Installing and Configuring Sysmon"
             }
           },
           {
@@ -213,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Day 09 Installing and Configuring Sysmon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Day 09 Installing and Configuring Sysmon"
             }
           }
         ]
@@ -242,13 +242,13 @@
   },
   "active": "76a47a0f7cbee68b",
   "lastOpenFiles": [
+    "README.md",
     "Day 09 Installing and Configuring Sysmon.md",
     "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
     "Raw Data.md",
     "Day 07 Installing Elastic Agent and Setting Up Fleet Server.md",
     "Day 06 Understanding Fleet Server and Elastic Agent.md",
     "Day 08 Understanding and Using Sysmon.md",
-    "README.md",
     "Day 04 Installing and Configuring Kibana.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 01 Introduction and Network Diagram Creation.md",
