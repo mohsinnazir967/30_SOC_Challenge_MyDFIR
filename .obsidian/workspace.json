@@ -171,8 +171,9 @@
   },
   "active": "347c172881b96b23",
   "lastOpenFiles": [
-    "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
+    "Images/Network_Diagram.png",
     "Day 13 Installing Elastic Agent on SSH Server.md",
+    "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
     "Raw Data.md",
     "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
     "Day 05 Setting Up a Windows Server in the Cloud.md",
@@ -186,7 +187,6 @@
     "Day 04 Installing and Configuring Kibana.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 01 Introduction and Network Diagram Creation.md",
-    "Images/Network_Diagram.png",
     "Clipboard.md",
     "Images/Netwrok_Diagram.drawio.png",
     "Netwrok_Diagram.drawio.png",

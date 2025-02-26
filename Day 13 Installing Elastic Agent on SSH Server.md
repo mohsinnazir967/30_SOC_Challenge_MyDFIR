@@ -29,8 +29,9 @@
 2. Click on **Add Agent**.
 3. Select the policy created (e.g., `Challenge-Linux-Policy`).
 4. Choose **Enroll in Fleet** and select **Linux tar**.
-5. Copy the command and run it in the SSH session on `Challenge-Linux-Steve`
-6. Add `--insecure` flag if using a self-signed certificate.
+5. Edit the `SOC Simulation` Firewall to add a rule that allow `Challenge-Linux-Steve` to communicate with `Challenge-ELK` on port 9200.
+6. Copy the command and run it in the SSH session on `Challenge-Linux-Steve`
+7. Add `--insecure` flag if using a self-signed certificate.
 
 ## 5. Verify Installation
 
