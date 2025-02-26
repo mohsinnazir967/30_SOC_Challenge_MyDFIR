@@ -71,3 +71,5 @@
 [Day 13 Installing Elastic Agent on SSH Server](Day%2013%20Installing%20Elastic%20Agent%20on%20SSH%20Server.md)
 
 [Day 14 Creating SSH Brute Force Alerts and Dashboards](Day%2014%20Creating%20SSH%20Brute%20Force%20Alerts%20and%20Dashboards.md)
+
+[Day 15 Understanding and Protecting Against RDP Abuse](Day%2015%20Understanding%20and%20Protecting%20Against%20RDP%20Abuse.md)

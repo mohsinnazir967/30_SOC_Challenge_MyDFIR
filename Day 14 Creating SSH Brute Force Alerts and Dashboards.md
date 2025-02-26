@@ -81,3 +81,5 @@ system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth
 2. Change the title to `Challenge-SSH Failed Authentication Activity`.
 3. Adjust the query to filter for successful attempts (e.g., `system.auth.ssh.event: accepted`).
 4. Save the updated dashboard.
+
+[Day 15 Understanding and Protecting Against RDP Abuse](Day%2015%20Understanding%20and%20Protecting%20Against%20RDP%20Abuse.md)
