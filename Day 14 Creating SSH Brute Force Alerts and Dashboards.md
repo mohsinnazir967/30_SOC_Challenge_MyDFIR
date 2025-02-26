@@ -71,7 +71,7 @@ system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth
 4. Select **Choropleth Layer** and choose **World Countries**.
 5. Use the appropriate data view and join field (e.g., ISO code).
 6. Save the map as "SSH Network Map" and add it to a new dashboard.
-7. Name the dashboard (e.g., `my dfir D authentication D activity`).
+7. Name the dashboard (e.g., `Challenge-SSH faield Authentication Activity`).
 
 ## 9. Create Successful Authentication Dashboard
 
