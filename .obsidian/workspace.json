@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Day 06 Understanding Fleet Server and Elastic Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Day 06 Understanding Fleet Server and Elastic Agent"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Day 06 Understanding Fleet Server and Elastic Agent.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Day 06 Understanding Fleet Server and Elastic Agent"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Day 06 Understanding Fleet Server and Elastic Agent.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Day 06 Understanding Fleet Server and Elastic Agent"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Day 06 Understanding Fleet Server and Elastic Agent.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Day 06 Understanding Fleet Server and Elastic Agent"
             }
           }
         ],
@@ -200,21 +200,22 @@
   },
   "active": "714d09138ccbb5ff",
   "lastOpenFiles": [
+    "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
+    "Day 06 Understanding Fleet Server and Elastic Agent.md",
+    "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.m.md",
+    "Day 13 Installing Elastic Agent on SSH Server.md",
+    "README.md",
     "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
     "Day 15 Understanding and Protecting Against RDP Abuse.md",
     "Day 04 Installing and Configuring Kibana.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
-    "README.md",
     "Raw Data.md",
-    "Day 13 Installing Elastic Agent on SSH Server.md",
     "Day 05 Setting Up a Windows Server in the Cloud.md",
     "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
     "Images/Network_Diagram.png",
-    "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
     "Day 08 Understanding and Using Sysmon.md",
     "Day 09 Installing and Configuring Sysmon.md",
-    "Day 06 Understanding Fleet Server and Elastic Agent.md",
     "Day 11 Understanding and Defending Against Brute Force Attacks.md",
     "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
     "Day.md",
