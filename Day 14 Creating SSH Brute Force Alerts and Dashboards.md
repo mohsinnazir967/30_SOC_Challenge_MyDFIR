@@ -52,7 +52,7 @@ Save the query as "SSH failed activity".
 2. Name the alert (e.g., `Challenge - SSH Brute Force Activity - Steve.`
 3. The query is automatically populated based on the saved search.
 4. Set the threshold (e.g., greater than 5 failed attempts within 5 minutes).
-5. Test the query to ensure it matches documents.
+5. Testfaield the query to ensure it matches documents.
 6. Set the rule to check every 1 minute.
 7. Save the rule.
 
@@ -69,9 +69,9 @@ system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth
 
 3. Add a layer to visualize geolocation based on source IP.
 4. Select **Choropleth Layer** and choose **World Countries**.
-5. Use the appropriate data view and join field (e.g., ISO code).
+5. Use the appropriate data view and join field (e.g., `source.geo.country_iso_code`
 6. Save the map as "SSH Network Map" and add it to a new dashboard.
-7. Name the dashboard (e.g., `Challenge-SSH faield Authentication Activity`).
+7. Name the dashboard (e.g., `Challenge-SSH Failed Authentication Activity`).
 
 ## 9. Create Successful Authentication Dashboard
 

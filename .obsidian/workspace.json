@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 04 Installing and Configuring Kibana.md",
+                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 04 Installing and Configuring Kibana"
+              "title": "Day 13 Installing Elastic Agent on SSH Server"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 04 Installing and Configuring Kibana.md",
+                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 04 Installing and Configuring Kibana"
+              "title": "Backlinks for Day 13 Installing Elastic Agent on SSH Server"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 04 Installing and Configuring Kibana.md",
+                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 04 Installing and Configuring Kibana"
+              "title": "Outgoing links from Day 13 Installing Elastic Agent on SSH Server"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 04 Installing and Configuring Kibana.md",
+                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 04 Installing and Configuring Kibana"
+              "title": "Outline of Day 13 Installing Elastic Agent on SSH Server"
             }
           }
         ]
@@ -186,8 +186,9 @@
   },
   "active": "49a27303dc5a7f5a",
   "lastOpenFiles": [
-    "Day 05 Setting Up a Windows Server in the Cloud.md",
     "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
+    "Day 04 Installing and Configuring Kibana.md",
+    "Day 05 Setting Up a Windows Server in the Cloud.md",
     "Day 13 Installing Elastic Agent on SSH Server.md",
     "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
     "README.md",
@@ -200,7 +201,6 @@
     "Day 11 Understanding and Defending Against Brute Force Attacks.md",
     "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
     "Day.md",
-    "Day 04 Installing and Configuring Kibana.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 01 Introduction and Network Diagram Creation.md",
     "Clipboard.md",

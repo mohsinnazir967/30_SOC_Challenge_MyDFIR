@@ -55,3 +55,4 @@ grep -i failed auth.log | grep -i root | cut -d ' ' -f 11
 
 3. Add relevant fields to the table in Elasticsearch for easier analysis.
 
+[Day 14 Creating SSH Brute Force Alerts and Dashboards](Day%2014%20Creating%20SSH%20Brute%20Force%20Alerts%20and%20Dashboards.md)
