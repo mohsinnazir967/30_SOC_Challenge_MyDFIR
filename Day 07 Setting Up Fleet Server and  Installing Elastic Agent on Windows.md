@@ -1,8 +1,8 @@
-# Day 07: Installing Elastic Agent and Setting Up Fleet Server
+# Day 07: Setting Up Fleet Server and Installing Elastic Agent on Windows
 
 ## 1. Introduction
 
-**Goal**: Install Elastic Agent on Windows server and set up Fleet server for centralized management.
+**Goal**: set up Fleet server for centralized management and Install Elastic Agent on Windows server.
 ## 2. Create Fleet Server
 
 **Steps**:

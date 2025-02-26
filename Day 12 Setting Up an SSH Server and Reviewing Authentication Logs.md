@@ -50,6 +50,6 @@
 3. Extract IP addresses using cut command:
 
 ```
-grep -i failed auth.log | grep -i root auth.log | cut -d ' ' -f 9 auth.log
+grep -i failed auth.log | grep -i root | cut -d ' ' -f 11
 ````
 
