@@ -49,7 +49,7 @@ Save the query as "SSH failed activity".
 **Steps**:
 
 1. Click on the **Alerts** tab and select **Create Search Threshold Rule**.
-2. Name the alert (e.g., `my df- SSH Brute Force activity - <your_handle>`).
+2. Name the alert (e.g., `Challenge - SSH Brute Force Activity - Steve.`
 3. The query is automatically populated based on the saved search.
 4. Set the threshold (e.g., greater than 5 failed attempts within 5 minutes).
 5. Test the query to ensure it matches documents.
@@ -58,14 +58,20 @@ Save the query as "SSH failed activity".
 
 ## 8. Create Dashboard
 
-- **Steps**:
-    1. Click on the hamburger icon > **Maps** under the **Analytics** tab.
-    2. Use the saved search query to filter data.
-    3. Add a layer to visualize geolocation based on source IP.
-    4. Select **Choropleth Layer** and choose **World Countries**.
-    5. Use the appropriate data view and join field (e.g., ISO code).
-    6. Save the map as "SSH Network Map" and add it to a new dashboard.
-    7. Name the dashboard (e.g., `my dfir D authentication D activity`).
+**Steps**:
+
+1. Click on the hamburger icon > **Maps** under the **Analytics** tab.
+2. Use the saved search query to filter data. 
+
+```
+system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth.ssh.event : "Failed"
+```
+
+3. Add a layer to visualize geolocation based on source IP.
+4. Select **Choropleth Layer** and choose **World Countries**.
+5. Use the appropriate data view and join field (e.g., ISO code).
+6. Save the map as "SSH Network Map" and add it to a new dashboard.
+7. Name the dashboard (e.g., `my dfir D authentication D activity`).
 
 ## 9. Create Successful Authentication Dashboard
 
