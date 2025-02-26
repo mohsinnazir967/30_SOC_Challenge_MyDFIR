@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
+                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows"
+              "title": "Day 13 Installing Elastic Agent on SSH Server"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
+                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows"
+              "title": "Backlinks for Day 13 Installing Elastic Agent on SSH Server"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
+                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows"
+              "title": "Outgoing links from Day 13 Installing Elastic Agent on SSH Server"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
+                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows"
+              "title": "Outline of Day 13 Installing Elastic Agent on SSH Server"
             }
           }
         ]
@@ -171,18 +171,18 @@
   },
   "active": "347c172881b96b23",
   "lastOpenFiles": [
-    "Day 05 Setting Up a Windows Server in the Cloud.md",
-    "Day 13.md",
-    "README.md",
+    "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
+    "Day 13 Installing Elastic Agent on SSH Server.md",
+    "Raw Data.md",
     "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
+    "Day 05 Setting Up a Windows Server in the Cloud.md",
+    "README.md",
     "Day 08 Understanding and Using Sysmon.md",
     "Day 09 Installing and Configuring Sysmon.md",
     "Day 06 Understanding Fleet Server and Elastic Agent.md",
-    "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
     "Day 11 Understanding and Defending Against Brute Force Attacks.md",
     "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
     "Day.md",
-    "Raw Data.md",
     "Day 04 Installing and Configuring Kibana.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 01 Introduction and Network Diagram Creation.md",
