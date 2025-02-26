@@ -53,3 +53,4 @@
 grep -i failed auth.log | grep -i root | cut -d ' ' -f 11
 ````
 
+[Day 13 Installing Elastic Agent on SSH Server](Day%2013%20Installing%20Elastic%20Agent%20on%20SSH%20Server.md)

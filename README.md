@@ -67,3 +67,5 @@
 [Day 11 Understanding and Defending Against Brute Force Attacks](Day%2011%20Understanding%20and%20Defending%20Against%20Brute%20Force%20Attacks.md)
 
 [Day 12 Setting Up an SSH Server and Reviewing Authentication Logs](Day%2012%20Setting%20Up%20an%20SSH%20Server%20and%20Reviewing%20Authentication%20Logs.md)
+
+[Day 13 Installing Elastic Agent on SSH Server](Day%2013%20Installing%20Elastic%20Agent%20on%20SSH%20Server.md)
