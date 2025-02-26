@@ -53,5 +53,5 @@
 grep -i failed auth.log | grep -i root | cut -d ' ' -f 11
 ```
 
-1. Add relevant fields to the table in Elasticsearch for easier analysis.
+3. Add relevant fields to the table in Elasticsearch for easier analysis.
 
