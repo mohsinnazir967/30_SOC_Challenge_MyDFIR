@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
+                "file": "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 13 Installing Elastic Agent on SSH Server"
+              "title": "Day 14 Creating SSH Brute Force Alerts and Dashboards"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
+                "file": "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 13 Installing Elastic Agent on SSH Server"
+              "title": "Backlinks for Day 14 Creating SSH Brute Force Alerts and Dashboards"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
+                "file": "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 13 Installing Elastic Agent on SSH Server"
+              "title": "Outgoing links from Day 14 Creating SSH Brute Force Alerts and Dashboards"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 13 Installing Elastic Agent on SSH Server.md",
+                "file": "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 13 Installing Elastic Agent on SSH Server"
+              "title": "Outline of Day 14 Creating SSH Brute Force Alerts and Dashboards"
             }
           }
         ]
@@ -186,9 +186,9 @@
   },
   "active": "49a27303dc5a7f5a",
   "lastOpenFiles": [
-    "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
     "Day 13 Installing Elastic Agent on SSH Server.md",
-    "Day 14.md",
+    "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
+    "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
     "README.md",
     "Images/Network_Diagram.png",
     "Raw Data.md",
