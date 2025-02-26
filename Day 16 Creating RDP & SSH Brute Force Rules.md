@@ -21,11 +21,12 @@
 
 ## 4. Filter for Failed Attempts
 
-- **Steps**:
-    1. Search for Event ID 4625 in the logs.
-    2. Confirm the field name is `event.code`.
-    3. Add `source.ip` and `user.name` fields to the table.
-    4. Verify the data by expanding the first event and checking the message.
+**Steps**:
+
+1. Search for Event ID 4625 in the logs.
+2. Confirm the field name is `event.code`.
+3. Add `source.ip` and `user.name` fields to the table.
+4. Verify the data by expanding the first event and checking the message.
 
 ## 5. Save the Query
 
@@ -35,12 +36,13 @@ Save the query as `Challenge RDP failed activity`.
 
 ## 6. Create Alert
 
-- **Steps**:
-    1. Click on the **Alerts** tab and select **Create Search Threshold Rule**.
-    2. Name the alert (e.g., `my df- RDP Brute Force activity - <your_handle>`).
-    3. Set the threshold (e.g., greater than 5 failed attempts within 5 minutes).
-    4. Test the query to ensure it matches documents.
-    5. Save the rule.
+**Steps**:
+
+1. Click on the **Alerts** tab and select **Create Search Threshold Rule**.
+2. Name the alert (e.g., `Challenge Failed RDP alert`).
+3. Set the threshold (e.g., greater than 5 failed attempts within 5 minutes).
+4. Test the query to ensure it matches documents.
+5. Save the rule.
 
 ## 7. Create Detailed Detection Rule
 
