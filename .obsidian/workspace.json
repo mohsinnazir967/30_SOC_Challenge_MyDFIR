@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Day 04 Installing and Configuring Kibana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Day 04 Installing and Configuring Kibana"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 958.5
   },
   "right": {
     "id": "210909697ff83258",
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Day 04 Installing and Configuring Kibana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Day 04 Installing and Configuring Kibana"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Day 04 Installing and Configuring Kibana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Day 04 Installing and Configuring Kibana"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Day 04 Installing and Configuring Kibana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Day 04 Installing and Configuring Kibana"
             }
           }
         ]
@@ -186,13 +186,15 @@
   },
   "active": "49a27303dc5a7f5a",
   "lastOpenFiles": [
-    "Raw Data.md",
+    "Day 03 Setting Up an Elasticsearch Instance.md",
+    "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
     "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
+    "README.md",
+    "Raw Data.md",
     "Day 13 Installing Elastic Agent on SSH Server.md",
     "Day 04 Installing and Configuring Kibana.md",
     "Day 05 Setting Up a Windows Server in the Cloud.md",
     "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
-    "README.md",
     "Images/Network_Diagram.png",
     "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
     "Day 08 Understanding and Using Sysmon.md",
@@ -201,13 +203,11 @@
     "Day 11 Understanding and Defending Against Brute Force Attacks.md",
     "Day 10 Ingesting Sysmon and Microsoft Defender Logs into Elasticsearch.md",
     "Day.md",
-    "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 01 Introduction and Network Diagram Creation.md",
     "Clipboard.md",
     "Images/Netwrok_Diagram.drawio.png",
     "Netwrok_Diagram.drawio.png",
     "Day 01 Introduction and Network Diagram.md",
-    "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
     "conflict-files-obsidian-git.md",
     "Netwrok_Diagram.drawio",
     "Images",
