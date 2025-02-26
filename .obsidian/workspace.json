@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 04 Installing and Configuring Kibana.md",
+                "file": "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 04 Installing and Configuring Kibana"
+              "title": "Day 14 Creating SSH Brute Force Alerts and Dashboards"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 04 Installing and Configuring Kibana.md",
+                "file": "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 04 Installing and Configuring Kibana"
+              "title": "Backlinks for Day 14 Creating SSH Brute Force Alerts and Dashboards"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 04 Installing and Configuring Kibana.md",
+                "file": "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 04 Installing and Configuring Kibana"
+              "title": "Outgoing links from Day 14 Creating SSH Brute Force Alerts and Dashboards"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 04 Installing and Configuring Kibana.md",
+                "file": "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 04 Installing and Configuring Kibana"
+              "title": "Outline of Day 14 Creating SSH Brute Force Alerts and Dashboards"
             }
           }
         ]
@@ -186,13 +186,13 @@
   },
   "active": "49a27303dc5a7f5a",
   "lastOpenFiles": [
+    "Day 04 Installing and Configuring Kibana.md",
     "Day 03 Setting Up an Elasticsearch Instance.md",
     "Day 02 ELK Stack – Elasticsearch Logstash and Kibana.md",
     "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
     "README.md",
     "Raw Data.md",
     "Day 13 Installing Elastic Agent on SSH Server.md",
-    "Day 04 Installing and Configuring Kibana.md",
     "Day 05 Setting Up a Windows Server in the Cloud.md",
     "Day 12 Setting Up an SSH Server and Reviewing Authentication Logs.md",
     "Images/Network_Diagram.png",
