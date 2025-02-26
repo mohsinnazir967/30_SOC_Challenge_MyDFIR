@@ -58,3 +58,4 @@
 5. **Use Strong Passwords**: Ensure passwords are at least 15 characters long with a mix of upper and lowercase letters, numbers, and special characters.
 
 6. **Avoid Default Accounts**: Disable default local accounts and create uniquely named administrator accounts.
+
