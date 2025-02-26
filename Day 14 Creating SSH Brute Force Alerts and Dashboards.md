@@ -23,36 +23,38 @@
 
 ## 4. Filter for Failed Attempts
 
-- **Steps**:
-    1. Search for "failed" in the logs.
-    2. If no relevant data, explore available fields on the left.
-    3. Use `system.auth.ssh.event` field to filter for failed, invalid, and accepted attempts.
-    4. Add `system.auth.ssh.event` as a column.
-    5. Filter where `system.auth.ssh.event` exists to narrow down results.
+**Steps**:
+
+1. Search for "failed" in the logs.
+2. If no relevant data, explore available fields on the left.
+3. Use `system.auth.ssh.event` field to filter for failed, invalid, and accepted attempts.
+4. Add `system.auth.ssh.event` as a column.
+5. Filter where `system.auth.ssh.event` exists to narrow down results.
+6. Select the `failed` from the table and then add it to the filter.
 
 ## 5. Add Relevant Fields
 
-- **Steps**:
-    1. Add `user.name` field to track usernames.
-    2. Add `source.ip` field to track source IP addresses.
-    3. Optionally, add `geoip.country_name` to see the country of origin.
+**Steps**:
+
+1. Add `user.name` field to track usernames.
+2. Add `source.ip` field to track source IP addresses.
+3. Optionally, add `geoip.country_name` to see the country of origin.
 
 ## 6. Save the Query
 
-- **Steps**:
-    1. Highlight "failed" and filter for failed attempts.
-    2. Save the query as "SSH failed activity".
+Save the query as "SSH failed activity".
 
 ## 7. Create Alert
 
-- **Steps**:
-    1. Click on the **Alerts** tab and select **Create Search Threshold Rule**.
-    2. Name the alert (e.g., `my df- SSH Brute Force activity - <your_handle>`).
-    3. The query is automatically populated based on the saved search.
-    4. Set the threshold (e.g., greater than 5 failed attempts within 5 minutes).
-    5. Test the query to ensure it matches documents.
-    6. Set the rule to check every 1 minute.
-    7. Save the rule.
+**Steps**:
+
+1. Click on the **Alerts** tab and select **Create Search Threshold Rule**.
+2. Name the alert (e.g., `my df- SSH Brute Force activity - <your_handle>`).
+3. The query is automatically populated based on the saved search.
+4. Set the threshold (e.g., greater than 5 failed attempts within 5 minutes).
+5. Test the query to ensure it matches documents.
+6. Set the rule to check every 1 minute.
+7. Save the rule.
 
 ## 8. Create Dashboard
 
