@@ -70,13 +70,14 @@ system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth
 3. Add a layer to visualize geolocation based on source IP.
 4. Select **Choropleth Layer** and choose **World Countries**.
 5. Use the appropriate data view and join field (e.g., `source.geo.country_iso_code`
-6. Save the map as "SSH Network Map" and add it to a new dashboard.
-7. Name the dashboard (e.g., `Challenge-SSH Failed Authentication Activity`).
+6. Save the map as "`Challenge-SSH Failed Authentication Activity`" and add it to a new dashboard.
+7. Save & Name the dashboard (e.g., `Challenge SSH Authentication Activity`).
 
 ## 9. Create Successful Authentication Dashboard
 
-- **Steps**:
-    1. Duplicate the failed authentication dashboard.
-    2. Change the title to "SSH Successful Authentication".
-    3. Adjust the query to filter for successful attempts (e.g., `system.auth.ssh.event: accepted`).
-    4. Save the updated dashboard.
+**Steps**:
+
+1. Duplicate the failed authentication dashboard.
+2. Change the title to `Challenge-SSH Failed Authentication Activity`.
+3. Adjust the query to filter for successful attempts (e.g., `system.auth.ssh.event: accepted`).
+4. Save the updated dashboard.
