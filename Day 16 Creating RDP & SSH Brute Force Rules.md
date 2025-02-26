@@ -44,17 +44,21 @@ Save the query as `Challenge RDP failed activity`.
 4. Test the query to ensure it matches documents.
 5. Save the rule.
 
-## 7. Create Detailed Detection Rule
+## 7. Create Detailed Detection Rule for RDP
 
-- **Steps**:
-    1. Click on **Detection Rules** and select **Create New Rule**.
-    2. Choose **Threshold** as the rule type.
-    3. Use the custom query from the saved search and add `user.name` and `source.ip` fields.
-    4. Group by `user.name` and `source.ip`.
-    5. Name the rule (e.g., `my dfir SSH Brute Force attempt - <your_handle>`).
-    6. Set the severity to medium and configure advanced settings if needed.
-    7. Schedule the rule to run every 5 minutes.
-    8. Create and enable the rule.
+**Steps**:
+
+1. Click on **Rules** and select **Create New Rule**.
+2. Choose **Threshold** as the rule type.
+3. Use the custom query from the saved search and add `user.name` and `source.ip` fields.
+```
+
+```
+1. Group by `user.name` and `source.ip`.
+2. Name the rule (e.g., `my dfir SSH Brute Force attempt - <your_handle>`).
+3. Set the severity to medium and configure advanced settings if needed.
+4. Schedule the rule to run every 5 minutes.
+5. Create and enable the rule.
 
 ## 8. Test the Rule
 
