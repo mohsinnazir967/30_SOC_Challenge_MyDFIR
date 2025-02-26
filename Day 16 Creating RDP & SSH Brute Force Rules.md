@@ -1,5 +1,4 @@
-# Day 16: Creating RDP Brute Force Alerts
-
+# Day 16: Creating RDP & SSH Brute Force Rules
 ## 1. Introduction
 
 **Goal**: Review authentication logs from the Windows server and create a Brute Force alert.
@@ -10,14 +9,15 @@
 
 1. Log into Elasticsearch and click on the hamburger icon > **Discover**.
 2. Set the time frame to "Today".
-3. Filter for the Windows server by clicking on the agent name (e.g., `my de- win- stepen rocks`).
+3. Filter for the Windows server by clicking on the agent name (e.g., `Challenge-WIN-Haji`).
 
 ## 3. Identify Key Fields
 
-- **Fields to Track**:
-    1. **Failed Attempts**: Look for failed authentication attempts (Event ID 4625).
-    2. **User**: Identify the user attempting to log in.
-    3. **Source IP**: Determine the source IP of the authentication attempts.
+**Fields to Track**:
+
+1. **Failed Attempts**: Look for failed authentication attempts (Event ID 4625)
+2. **User**: Identify the user attempting to log in.
+3. **Source IP**: Determine the source IP of the authentication attempts.
 
 ## 4. Filter for Failed Attempts
 
@@ -29,8 +29,9 @@
 
 ## 5. Save the Query
 
-- **Steps**:
-    1. Save the query as "RDP failed activity".
+**Steps**:
+
+Save the query as `Challenge RDP failed activity`.
 
 ## 6. Create Alert
 
