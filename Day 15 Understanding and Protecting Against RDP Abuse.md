@@ -59,3 +59,4 @@
 
 6. **Avoid Default Accounts**: Disable default local accounts and create uniquely named administrator accounts.
 
+[Day 16 Creating RDP & SSH Brute Force Rules](Day%2016%20Creating%20RDP%20&%20SSH%20Brute%20Force%20Rules.md)

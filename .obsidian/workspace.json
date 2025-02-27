@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 16 Creating RDP & SSH Brute Force Rules.md",
+                "file": "Day 15 Understanding and Protecting Against RDP Abuse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 16 Creating RDP & SSH Brute Force Rules"
+              "title": "Day 15 Understanding and Protecting Against RDP Abuse"
             }
           }
         ],
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 16 Creating RDP & SSH Brute Force Rules.md",
+                "file": "Day 15 Understanding and Protecting Against RDP Abuse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Day 16 Creating RDP & SSH Brute Force Rules"
+              "title": "Backlinks for Day 15 Understanding and Protecting Against RDP Abuse"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 16 Creating RDP & SSH Brute Force Rules.md",
+                "file": "Day 15 Understanding and Protecting Against RDP Abuse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Day 16 Creating RDP & SSH Brute Force Rules"
+              "title": "Outgoing links from Day 15 Understanding and Protecting Against RDP Abuse"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 16 Creating RDP & SSH Brute Force Rules.md",
+                "file": "Day 15 Understanding and Protecting Against RDP Abuse.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 16 Creating RDP & SSH Brute Force Rules"
+              "title": "Outline of Day 15 Understanding and Protecting Against RDP Abuse"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "2501468c9e5957d8",
   "lastOpenFiles": [
-    "README.md",
     "Day 16 Creating RDP & SSH Brute Force Rules.md",
+    "README.md",
     "Day 15 Understanding and Protecting Against RDP Abuse.md",
     "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
     "Day 17.md",
