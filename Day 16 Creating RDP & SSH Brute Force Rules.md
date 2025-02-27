@@ -58,7 +58,7 @@ event.code:4625 AND agent.name:"Challenge-WIN-Haji" and user.name:"Administrator
 
 4. In the `Group by` add `user.name` and `source.ip` fields.
 5. For the required field also add these two `user.name` and `source.ip`.
-6. Name the rule (e.g., `my dfir SSH Brute Force attempt - <your_handle>`).
+6. Name the rule (e.g., `Challenge-RDP-Brute-Force-Attempt-Haji`).
 7. Set the severity to medium and configure advanced settings if needed.
 8. Schedule the rule to run every 5 minutes.
 9. Create and enable the rule.
