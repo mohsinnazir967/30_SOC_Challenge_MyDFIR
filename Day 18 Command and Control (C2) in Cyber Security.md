@@ -44,4 +44,4 @@
 - Set up a Mythic server.
 - Deploy an agent to establish a successful C2 session.
 
-[Day 19 Creating an Attack Diagram]
+[Day 19 Creating an Attack Diagram](Day%2019%20Creating%20an%20Attack%20Diagram)

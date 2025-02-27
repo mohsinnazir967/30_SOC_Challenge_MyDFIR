@@ -79,3 +79,6 @@
 [Day 17 Creating a Dashboard for RDP Activity](Day%2017%20Creating%20a%20Dashboard%20for%20RDP%20Activity.md)
 
 [Day 18 Command and Control (C2) in Cyber Security](Day%2018%20Command%20and%20Control%20(C2)%20in%20Cyber%20Security.md)
+
+[Day 19 Creating an Attack Diagram](Day%2019%20Creating%20an%20Attack%20Diagram)
+
