@@ -115,3 +115,4 @@ event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonTy
 
 **Summary**: The dashboard now includes visualizations for both SSH and RDP failed and successful authentications.
 
+[Day 18 Command and Control (C2) in Cyber Security](Day%2018%20Command%20and%20Control%20(C2)%20in%20Cyber%20Security.md)
