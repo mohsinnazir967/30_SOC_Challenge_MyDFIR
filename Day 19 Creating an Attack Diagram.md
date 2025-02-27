@@ -63,3 +63,8 @@
 
 - **Action**: Create a fake password file (`passwords.txt`) on Windows Server.
 - **Goal**: Use C2 session to download `passwords.txt` and analyze telemetry.
+
+## Diagram
+
+![[Attack_Diagram.png]]
+(
