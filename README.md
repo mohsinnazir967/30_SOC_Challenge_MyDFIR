@@ -73,3 +73,5 @@
 [Day 14 Creating SSH Brute Force Alerts and Dashboards](Day%2014%20Creating%20SSH%20Brute%20Force%20Alerts%20and%20Dashboards.md)
 
 [Day 15 Understanding and Protecting Against RDP Abuse](Day%2015%20Understanding%20and%20Protecting%20Against%20RDP%20Abuse.md)
+
+[Day 16 Creating RDP & SSH Brute Force Rules](Day%2016%20Creating%20RDP%20&%20SSH%20Brute%20Force%20Rules.md)

@@ -89,4 +89,4 @@ system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth
 1. Perform a brute force attack to generate alerts.
 2. Check the alerts for detailed information such as username and source IP.
 
-[Day 15 Understanding and Protecting Against RDP Abuse](Day%2015%20Understanding%20and%20Protecting%20Against%20RDP%20Abuse.md)
+[Day 16 Creating RDP & SSH Brute Force Rules](Day%2016%20Creating%20RDP%20&%20SSH%20Brute%20Force%20Rules.md)
