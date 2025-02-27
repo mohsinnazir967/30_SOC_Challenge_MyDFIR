@@ -59,6 +59,12 @@ event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonTy
 
 **Create Visualization**: Click on Create Visualization and select Table.
 
+**Query**
+
+```
+system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth.ssh.event : "Failed"
+```
+
 **Add Fields**: Include timestamp, source IP, username, and country name.
 
 **Configure Rows**: Set top values to 10 and uncheck "group remaining values as other".
@@ -75,31 +81,38 @@ event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonTy
 
 **Modify Query**: Update the query to focus on successful authentications.
 
-system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth.ssh.event : "Failed"
+```
+system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth.ssh.event : "Accepted"
+```
 
 ### 6.3 RDP Failed Activity Table
 
-- **Duplicate Visualization**: Duplicate the SSH failed activity table.
-- **Update Title**: Change to "RDP Failed Authentications".
-- **Modify Query**: Update the query to focus on RDP failed authentications.
+**Duplicate Visualization**: Duplicate the SSH failed activity table.
+
+**Update Title**: Change to `Challenge-RDP Failed Authentications`.
+
+**Modify Query**: Update the query to focus on RDP failed authentications.
+
+```
+event.code:4625 AND agent.name:"Challenge-WIN-Haji"
+```
 
 ### 6.4 RDP Successful Activity Table
 
-- **Duplicate Visualization**: Duplicate the RDP failed activity table.
-- **Update Title**: Change to "RDP Successful Authentications".
-- **Modify Query**: Update the query to focus on RDP successful authentications.
+**Duplicate Visualization**: Duplicate the RDP failed activity table.
+
+**Update Title**: Change to `Challenge-RDP Successful Authentications`.
+
+**Modify Query**: Update the query to focus on RDP successful authentications.
+
+```
+event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonType:"5") and agent.name:"Challenge-WIN-Haji"
+```
 
 ## 7. Finalizing the Dashboard
 
-- **Review and Save**: Ensure all visualizations are correctly configured and save the dashboard.
-- **Summary**: The dashboard now includes visualizations for both SSH and RDP failed and successful authentications.
+**Review and Save**: Ensure all visualizations are correctly configured and save the dashboard.
 
-## 8. Conclusion
+**Summary**: The dashboard now includes visualizations for both SSH and RDP failed and successful authentications.
 
-**Next Steps**: In the next video, the focus will be on command and control tactics and the Mythic framework.
-
-**Giveaway**: Details about a giveaway for the My DFIR for SOC Analyst course and TryHackMe passes.
-
-Day 18: Advanced Dashboard Customization
-
-If you need any further assistance or additional notes, feel free to ask!
+[Day 17 Creating a Dashboard for RDP Activity](Day%2017%20Creating%20a%20Dashboard%20for%20RDP%20Activity.md)

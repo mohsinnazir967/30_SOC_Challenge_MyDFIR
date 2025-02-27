@@ -75,3 +75,5 @@
 [Day 15 Understanding and Protecting Against RDP Abuse](Day%2015%20Understanding%20and%20Protecting%20Against%20RDP%20Abuse.md)
 
 [Day 16 Creating RDP & SSH Brute Force Rules](Day%2016%20Creating%20RDP%20&%20SSH%20Brute%20Force%20Rules.md)
+
+[Day 17 Creating a Dashboard for RDP Activity](Day%2017%20Creating%20a%20Dashboard%20for%20RDP%20Activity.md)
