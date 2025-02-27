@@ -63,6 +63,25 @@ event.code:4625 AND agent.name:"Challenge-WIN-Haji" and user.name:"Administrator
 8. Schedule the rule to run every 5 minutes.
 9. Create and enable the rule.
 
+## 8. Create Detailed Detection Rule for RDP
+
+**Steps**:
+
+1. Click on **Rules** and select **Create New Rule**.
+2. Choose **Threshold** as the rule type.
+3. Use the custom query from the saved search
+
+```
+system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth.ssh.event : "Failed" AND user.name:"root" 
+```
+
+1. In the `Group by` add `user.name` and `source.ip` fields.
+2. For the required field also add these two `user.name` and `source.ip`.
+3. Name the rule (e.g., `Challenge-RDP-Brute-Force-Attempt-Haji`).
+4. Set the severity to medium and configure advanced settings if needed.
+5. Schedule the rule to run every 5 minutes.
+6. Create and enable the rule.
+
 ## 8. Test the Rule
 
 - **Steps**:
