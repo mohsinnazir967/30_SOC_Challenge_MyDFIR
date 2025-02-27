@@ -51,23 +51,31 @@ event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonTy
 
 **Use Queries**: use saved search  queries for both failed and successful activities.
 
-- **Add Table to Dashboard**: Include the table with usernames, source IPs, and country names for quick reference.
+**Add Table to Dashboard**: Include the table with usernames, source IPs, and country names for quick reference.
 
 ## 6. Creating Visualizations
 
 ### 6.1 SSH Failed Activity Table
 
-- **Create Visualization**: Click on Create Visualization and select Table.
-- **Add Fields**: Include timestamp, source IP, username, and country name.
-- **Configure Rows**: Set top values to 10 and uncheck "group remaining values as other".
-- **Sort Records**: Sort by count of records in descending order.
-- **Save Visualization**: Title it "SSH Failed Activity (Table)".
+**Create Visualization**: Click on Create Visualization and select Table.
+
+**Add Fields**: Include timestamp, source IP, username, and country name.
+
+**Configure Rows**: Set top values to 10 and uncheck "group remaining values as other".
+
+**Sort Records**: Sort by count of records in descending order.
+
+**Save Visualization**: Title it `Challenge-SSH Failed Activity (Table)`
 
 ### 6.2 SSH Successful Activity Table
 
-- **Duplicate Visualization**: Duplicate the SSH failed activity table.
-- **Update Title**: Change to "SSH Successful Authentications".
-- **Modify Query**: Update the query to focus on successful authentications.
+**Duplicate Visualization**: Duplicate the SSH failed activity table.
+
+**Update Title**: Change to `Challenge-SSH Sucessful Activity (Table)`.
+
+**Modify Query**: Update the query to focus on successful authentications.
+
+system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth.ssh.event : "Failed"
 
 ### 6.3 RDP Failed Activity Table
 
