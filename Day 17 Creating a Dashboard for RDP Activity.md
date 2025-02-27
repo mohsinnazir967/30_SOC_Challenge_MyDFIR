@@ -115,4 +115,3 @@ event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonTy
 
 **Summary**: The dashboard now includes visualizations for both SSH and RDP failed and successful authentications.
 
-[Day 17 Creating a Dashboard for RDP Activity](Day%2017%20Creating%20a%20Dashboard%20for%20RDP%20Activity.md)
