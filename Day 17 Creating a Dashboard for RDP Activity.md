@@ -35,7 +35,7 @@ event.code:4625 AND agent.name:"Challenge-WIN-Haji"
 **Logon Types**: Focus on logon types `10` and `7`.
 
 ```
-event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonType:"5") and agent.name:"Challenge-WIN-Haji"
+event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonType:"7") and agent.name:"Challenge-WIN-Haji"
 ```
 
 ### Save and Add to Dashboard
@@ -106,7 +106,7 @@ event.code:4625 AND agent.name:"Challenge-WIN-Haji"
 **Modify Query**: Update the query to focus on RDP successful authentications.
 
 ```
-event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonType:"5") and agent.name:"Challenge-WIN-Haji"
+event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonType:"7") and agent.name:"Challenge-WIN-Haji"
 ```
 
 ## 7. Finalizing the Dashboard
