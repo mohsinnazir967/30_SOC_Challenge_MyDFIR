@@ -8,23 +8,22 @@
 
 ## 3. Steps to Create the Dashboard
 
-### 3.1 Initial Setup
-
 **Navigate to Elastic web GUI**: Click on the hamburger icon and select Maps.
 
 **Query Setup**: Use the saved search query for event code `4625` (failed logins) and agent name.
 
 ```
-
+event.code:4625 AND agent.name:"Challenge-WIN-Haji"
 ```
 
 
 event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonType:"5")
-### 3.2 Adding a Layer
 
-- **Add Layer**: Click on Add Layer, select Choropleth, and choose World Countries for the EMS boundary.
-- **Data View**: Select alerts and join field `source.geo`.
-- **Country ISO Code**: Use the country ISO code for the abbreviation.
+**Add Layer**: Click on Add Layer, select Choropleth, and choose World Countries for the EMS boundary.
+
+**Data View**: Select alerts and join field `source.geo`.
+
+**Country ISO Code**: Use the country ISO code for the abbreviation.
 
 ### 3.3 Saving the Map
 
