@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "Day 16 Creating RDP & SSH Brute Force Rules"
             }
+          },
+          {
+            "id": "2501468c9e5957d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 16 Creating RDP & SSH Brute Force Rules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 16 Creating RDP & SSH Brute Force Rules"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -212,10 +226,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56ebbb954ae9bafb",
+  "active": "2501468c9e5957d8",
   "lastOpenFiles": [
-    "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
+    "Day 17.md",
     "Day 16 Creating RDP & SSH Brute Force Rules.md",
+    "Day 14 Creating SSH Brute Force Alerts and Dashboards.md",
     "Day 15 Understanding and Protecting Against RDP Abuse.md",
     "Day 07 Setting Up Fleet Server and  Installing Elastic Agent on Windows.md",
     "Day 13 Installing Elastic Agent on SSH Server.md",

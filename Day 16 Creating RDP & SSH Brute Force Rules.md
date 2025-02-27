@@ -77,13 +77,14 @@ system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth
 
 1. In the `Group by` add `user.name` and `source.ip` fields.
 2. For the required field also add these two `user.name` and `source.ip`.
-3. Name the rule (e.g., `Challenge-RDP-Brute-Force-Attempt-Haji`).
+3. Name the rule (e.g., `Challenge-SSH-Brute-Force-Attempt-Steve`).
 4. Set the severity to medium and configure advanced settings if needed.
 5. Schedule the rule to run every 5 minutes.
 6. Create and enable the rule.
 
 ## 8. Test the Rule
 
-- **Steps**:
-    1. Perform a brute force attack to generate alerts.
-    2. Check the alerts for detailed information such as username and source IP.
+**Steps**:
+
+1. Perform a brute force attack to generate alerts.
+2. Check the alerts for detailed information such as username and source IP.
