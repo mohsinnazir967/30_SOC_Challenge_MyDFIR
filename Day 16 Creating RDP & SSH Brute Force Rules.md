@@ -50,15 +50,16 @@ Save the query as `Challenge RDP failed activity`.
 
 1. Click on **Rules** and select **Create New Rule**.
 2. Choose **Threshold** as the rule type.
-3. Use the custom query from the saved search and add `user.name` and `source.ip` fields.
+3. Use the custom query from the saved search
 ```
-
+event.code:4625 AND agent.name:"Challenge-WIN-Haji" and user.name:"Administrator" 
 ```
-1. Group by `user.name` and `source.ip`.
-2. Name the rule (e.g., `my dfir SSH Brute Force attempt - <your_handle>`).
-3. Set the severity to medium and configure advanced settings if needed.
-4. Schedule the rule to run every 5 minutes.
-5. Create and enable the rule.
+1. In the `Group by` add `user.name` and `source.ip` fields.
+2. Group by `user.name` and `source.ip`.
+3. Name the rule (e.g., `my dfir SSH Brute Force attempt - <your_handle>`).
+4. Set the severity to medium and configure advanced settings if needed.
+5. Schedule the rule to run every 5 minutes.
+6. Create and enable the rule.
 
 ## 8. Test the Rule
 
