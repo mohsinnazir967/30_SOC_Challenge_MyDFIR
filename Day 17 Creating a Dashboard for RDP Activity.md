@@ -29,7 +29,7 @@ event.code:4625 AND agent.name:"Challenge-WIN-Haji"
 
 ## 4. Creating a Query for Successful Authentications 
 
-### 4.1 Modify Query
+### Modify Query
 
 **Event Code**: Change from `4625` to `4624` for successful logins.
 **Logon Types**: Focus on logon types `10` and `7`.
@@ -38,19 +38,18 @@ event.code:4625 AND agent.name:"Challenge-WIN-Haji"
 event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonType:"5") and agent.name:"Challenge-WIN-Haji"
 ```
 
-### 4.2 Save and Add to Dashboard
+### Save and Add to Dashboard
 
-- **Save Query**: Title it "Challenge-RDP Successfull Authentication Activity".
-- **Duplicate Dashboard**: Duplicate the existing dashboard and update the query.
+**Save Query**: Title it `Challenge-RDP Successful Authentication Activity`.
 
+**Duplicate Dashboard**: Duplicate the existing dashboard and update the query. and name of the new map `Challenge-RDP Successful Authentication Activity` and replace the query with the modified query.
 ## 5. Enhancing the Dashboard
 
-### 5.1 Adding a Table
+### Adding a Table
 
-- **Fields to Include**: Time, source IP, username, and country.
-- **Save Searches**: Create saved searches for both failed and successful activities.
+**Fields to Include**: Time, source IP, username, and country.
 
-### 5.2 Finalizing the Dashboard
+**Use Queries**: use saved search  queries for both failed and successful activities.
 
 - **Add Table to Dashboard**: Include the table with usernames, source IPs, and country names for quick reference.
 
