@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 01 Introduction and Network Diagram Creation.md",
+                "file": "Day 19 Creating an Attack Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 01 Introduction and Network Diagram Creation"
+              "title": "Day 19 Creating an Attack Diagram"
             }
           }
         ],
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 01 Introduction and Network Diagram Creation.md",
+                "file": "Day 19 Creating an Attack Diagram.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Day 01 Introduction and Network Diagram Creation"
+              "title": "Outline of Day 19 Creating an Attack Diagram"
             }
           }
         ],
@@ -257,8 +257,8 @@
   },
   "active": "36e87576a9e1041b",
   "lastOpenFiles": [
-    "Day 19 Creating an Attack Diagram.md",
     "Day 01 Introduction and Network Diagram Creation.md",
+    "Day 19 Creating an Attack Diagram.md",
     "Images/Network_Diagram.png",
     "Images/Attack_Diagram.png",
     "Images/Netwrok_Diagram.drawio",
