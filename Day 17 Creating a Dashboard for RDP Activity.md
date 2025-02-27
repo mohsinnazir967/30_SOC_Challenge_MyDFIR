@@ -25,7 +25,7 @@ event.code:4625 AND agent.name:"Challenge-WIN-Haji"
 
 **Save Map**: Title it "RDP Failed Authentication".
 
-**Add to Dashboard**: Select the existing dashboard `Challenge-RDP Failed Authentication Activity`
+**Add to Dashboard**: Select the existing dashboard `Challenge Authentication Activity`
 
 ## 4. Creating a Query for Successful Authentications 
 
@@ -71,13 +71,13 @@ system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth
 
 **Sort Records**: Sort by count of records in descending order.
 
-**Save Visualization**: Title it `Challenge-SSH Failed Activity (Table)`
+**Save Visualization**: Title it `Challenge-SSH Failed Authentication Activity (Table)`
 
 ### 6.2 SSH Successful Activity Table
 
 **Duplicate Visualization**: Duplicate the SSH failed activity table.
 
-**Update Title**: Change to `Challenge-SSH Sucessful Activity (Table)`.
+**Update Title**: Change to `Challenge-SSH Sucessful Authentication Activity (Table)`.
 
 **Modify Query**: Update the query to focus on successful authentications.
 
@@ -89,7 +89,7 @@ system.auth.ssh.event : * and agent.name:"Challenge-Linux-Steve" and system.auth
 
 **Duplicate Visualization**: Duplicate the SSH failed activity table.
 
-**Update Title**: Change to `Challenge-RDP Failed Authentications`.
+**Update Title**: Change to `Challenge-RDP Failed Authentication Activity (Table)`.
 
 **Modify Query**: Update the query to focus on RDP failed authentications.
 
@@ -101,7 +101,7 @@ event.code:4625 AND agent.name:"Challenge-WIN-Haji"
 
 **Duplicate Visualization**: Duplicate the RDP failed activity table.
 
-**Update Title**: Change to `Challenge-RDP Successful Authentications`.
+**Update Title**: Change to `Challenge-RDP Successful Authentications Activity Table)`.
 
 **Modify Query**: Update the query to focus on RDP successful authentications.
 
