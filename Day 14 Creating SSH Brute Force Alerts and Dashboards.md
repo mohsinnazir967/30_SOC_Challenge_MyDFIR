@@ -38,7 +38,7 @@
 
 1. Add `user.name` field to track usernames.
 2. Add `source.ip` field to track source IP addresses.
-3. Optionally, add `sourcegeoip.country_name` to see the country of origin.
+3. Optionally, add `geoip.country_name` to see the country of origin.
 
 ## 6. Save the Query
 

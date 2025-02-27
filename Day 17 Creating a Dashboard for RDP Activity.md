@@ -8,6 +8,7 @@
 
 ## 3. Steps to Create the Dashboard
 
+
 **Navigate to Elastic web GUI**: Click on the hamburger icon and select Maps.
 
 **Query Setup**: Use the saved search query for event code `4625` (failed logins) and agent name.
@@ -16,30 +17,30 @@
 event.code:4625 AND agent.name:"Challenge-WIN-Haji"
 ```
 
-
-event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonType:"5")
-
 **Add Layer**: Click on Add Layer, select Choropleth, and choose World Countries for the EMS boundary.
 
-**Data View**: Select alerts and join field `source.geo`.
+**Data View**: Select data view and join field ``source.geo.country_iso_code``.
 
 **Country ISO Code**: Use the country ISO code for the abbreviation.
 
-### 3.3 Saving the Map
+**Save Map**: Title it "RDP Failed Authentication".
 
-- **Save Map**: Title it "RDP Failed Authentication".
-- **Add to Dashboard**: Select the existing dashboard "my dfir-authentication-das-activity".
+**Add to Dashboard**: Select the existing dashboard `Challenge-RDP Failed Authentication Activity`
 
-## 4. Creating a Query for Successful Authentications
+## 4. Creating a Query for Successful Authentications 
 
 ### 4.1 Modify Query
 
-- **Event Code**: Change from `4625` to `4624` for successful logins.
-- **Logon Types**: Focus on logon types `10` and `7`.
+**Event Code**: Change from `4625` to `4624` for successful logins.
+**Logon Types**: Focus on logon types `10` and `7`.
+
+```
+event.code:4624 and (winlog.event_data.LogonType:10 or winlog.event_data.LogonType:"5") and agent.name:"Challenge-WIN-Haji"
+```
 
 ### 4.2 Save and Add to Dashboard
 
-- **Save Query**: Title it "RDP Successful Activity".
+- **Save Query**: Title it "Challenge-RDP Successfull Authentication Activity".
 - **Duplicate Dashboard**: Duplicate the existing dashboard and update the query.
 
 ## 5. Enhancing the Dashboard
